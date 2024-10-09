@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://schemas.microsoft.com/dotnet/2021/maui"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="AllStudy.SignInPage"
+             Title=""
+             >
+    <Grid>
+        <VerticalStackLayout
+            Spacing="10"
+            
+            >
+            
+            <Image Source="computerimage.png"
+               HorizontalOptions="FillAndExpand"
+               VerticalOptions="FillAndExpand"
+               HeightRequest="{Binding Source={x:Reference mainGrid}, Path=Height, Converter={StaticResource HalfConverter}}" />
+
+            <Button 
+                Clicked="SignUpButtonClicked"
+                BackgroundColor="#313231"
+                Text="Sign In"
+                FontSize="20"
+                WidthRequest="300"
+                HeightRequest="59"
+                />
+            <Button 
+                Clicked="SignInButtonClicked"
+                BackgroundColor="White"
+                Text="Sign Up"
+                TextColor="Black"
+                FontSize="20"
+                WidthRequest="300"
+                HeightRequest="59"
+                            />
+        </VerticalStackLayout>
+        <Image
+                Source="logo.png"
+                HorizontalOptions="Center"
+                VerticalOptions="Start"
+                Margin="0,50,0,0"
+                WidthRequest="213"
+                HeightRequest="213"
+                
+            >
+        </Image>
+    </Grid>
+</ContentPage>

@@ -1,1 +1,1 @@
-<Devices><Device id="CNXNU20A10201026"><ResultingAbi>arm64-v8a</ResultingAbi><ToolsAbi /><SdkVersion>29</SdkVersion><LongOutput>product:PPAH-L22;model:PPA_LX2;device:HWPPA-H;transport_id:1</LongOutput></Device></Devices>
+<Devices><Device id="73dd6dbe"><ResultingAbi>arm64-v8a</ResultingAbi><ToolsAbi /><SdkVersion>30</SdkVersion><LongOutput>product:CPH1933;model:CPH1933;device:OP4B79L1;transport_id:15</LongOutput></Device></Devices>
