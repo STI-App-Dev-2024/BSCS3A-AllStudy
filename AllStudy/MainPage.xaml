@@ -5,14 +5,24 @@
              Title=""
              >
     <Grid>
+
         <Image
-                Source="splashscreen.png"
-                Aspect="AspectFill"  
-                HorizontalOptions="FillAndExpand"
-                VerticalOptions="FillAndExpand"
-              />
-        
+            Source="splashscreen.png"
+            Aspect="AspectFill"
+            HorizontalOptions="FillAndExpand"
+            VerticalOptions="FillAndExpand" />
 
+        <Grid x:Name="LoadingOverlay"
+              BackgroundColor="Black"
+              Opacity="0.5"
+              IsVisible="False"
+              HorizontalOptions="FillAndExpand"
+              VerticalOptions="FillAndExpand">
+            <ActivityIndicator IsRunning="True" 
+                               Color="White" 
+                               VerticalOptions="Center" 
+                               HorizontalOptions="Center" />
+        </Grid>
     </Grid>
-
+    
 </ContentPage>
