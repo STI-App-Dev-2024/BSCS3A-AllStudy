@@ -2,46 +2,64 @@
 <ContentPage xmlns="http://schemas.microsoft.com/dotnet/2021/maui"
              xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
              x:Class="AllStudy.SignInPage"
-             Title=""
-             >
-    <Grid>
-        <VerticalStackLayout
-            Spacing="10"
-            
-            >
-            
-            <Image Source="computerimage.png"
-               HorizontalOptions="FillAndExpand"
-               VerticalOptions="FillAndExpand"
-               HeightRequest="{Binding Source={x:Reference mainGrid}, Path=Height, Converter={StaticResource HalfConverter}}" />
+             Title="">
 
-            <Button 
-                Clicked="SignUpButtonClicked"
-                BackgroundColor="#313231"
-                Text="Sign In"
-                FontSize="20"
-                WidthRequest="300"
-                HeightRequest="59"
-                />
-            <Button 
-                Clicked="SignInButtonClicked"
-                BackgroundColor="White"
-                Text="Sign Up"
-                TextColor="Black"
-                FontSize="20"
-                WidthRequest="300"
-                HeightRequest="59"
-                            />
-        </VerticalStackLayout>
-        <Image
-                Source="logo.png"
-                HorizontalOptions="Center"
-                VerticalOptions="Start"
-                Margin="0,50,0,0"
-                WidthRequest="213"
-                HeightRequest="213"
-                
-            >
-        </Image>
+    <Grid RowDefinitions="*, Auto" Padding="100">
+
+        <Grid>
+            <Label x:Name="greetingLabel"
+           Text="Let your study begin"
+           FontSize="25"
+           TextColor="Black"
+           HorizontalOptions="Center"
+           VerticalOptions="Center"
+           WidthRequest="300" 
+           HorizontalTextAlignment="Center" />
+        </Grid>
+
+        <Grid Grid.Row="0" HorizontalOptions="Center" VerticalOptions="Center">
+            <Image x:Name="computerImage"
+                   Source="computerimage1.svg"
+                   HorizontalOptions="Center"
+                   VerticalOptions="Center"
+                   WidthRequest="400"
+                   HeightRequest="525"
+                   Margin="0, -100, 0, 60"/>
+            
+            <Image x:Name="logoImage"
+                   Source="logo2.svg"
+                   HorizontalOptions="Center"
+                   VerticalOptions="Center"
+                   WidthRequest="213"
+                   HeightRequest="213"
+                   Margin="0, -200, 0, 60" />
+            
+        </Grid>
+
+        
+        <StackLayout Grid.Row="1" Spacing="15" HorizontalOptions="Center" VerticalOptions="End">
+            <Button x:Name="signInButton"
+                    Clicked="SignInButtonClicked"
+                    BackgroundColor="#313231"
+                    Text="Sign In"
+                    TextColor="White"
+                    FontSize="20"
+                    WidthRequest="250"
+                    HeightRequest="50"
+                    CornerRadius="25" />
+
+            <Button x:Name="signUpButton"
+                    Clicked="SignUpButtonClicked"
+                    BackgroundColor="White"
+                    Text="Sign Up"
+                    TextColor="#313231"
+                    FontSize="20"
+                    WidthRequest="250"
+                    HeightRequest="50"
+                    BorderColor="#313231"
+                    BorderWidth="2"
+                    CornerRadius="25" />
+        </StackLayout>
+
     </Grid>
 </ContentPage>

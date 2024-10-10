@@ -33055,11 +33055,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\reign\\source\\repos\\AllStudy\\AllStudy\\AllStudy.csproj",
+      "projectUniqueName": "C:\\Users\\reign\\source\\repos\\BSCS3A-AllStudy\\AllStudy\\AllStudy.csproj",
       "projectName": "AllStudy",
-      "projectPath": "C:\\Users\\reign\\source\\repos\\AllStudy\\AllStudy\\AllStudy.csproj",
+      "projectPath": "C:\\Users\\reign\\source\\repos\\BSCS3A-AllStudy\\AllStudy\\AllStudy.csproj",
       "packagesPath": "C:\\Users\\reign\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\reign\\source\\repos\\AllStudy\\AllStudy\\obj\\",
+      "outputPath": "C:\\Users\\reign\\source\\repos\\BSCS3A-AllStudy\\AllStudy\\obj\\",
       "projectStyle": "PackageReference",
       "crossTargeting": true,
       "fallbackFolders": [

@@ -10,220 +10,250 @@
     <PackageArchitecture>x64</PackageArchitecture>
     <PackageIdentityName>com.companyname.allstudy</PackageIdentityName>
     <PackageIdentityPublisher>CN=User Name</PackageIdentityPublisher>
-    <IntermediateOutputPath>C:\Users\reign\source\repos\AllStudy\AllStudy\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\</IntermediateOutputPath>
+    <IntermediateOutputPath>C:\Users\reign\source\repos\BSCS3A-AllStudy\AllStudy\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\</IntermediateOutputPath>
     <RemoteDeploymentType>CopyToDevice</RemoteDeploymentType>
     <PackageRegistrationPath></PackageRegistrationPath>
     <RemoveNonLayoutFiles>false</RemoveNonLayoutFiles>
     <DeployOptionalPackages>false</DeployOptionalPackages>
     <WindowsSdkPath>C:\Program Files %28x86%29\Windows Kits\10\</WindowsSdkPath>
-    <LayoutDir>C:\Users\reign\source\repos\AllStudy\AllStudy\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\AppX</LayoutDir>
+    <LayoutDir>C:\Users\reign\source\repos\BSCS3A-AllStudy\AllStudy\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\AppX</LayoutDir>
   </PropertyGroup>
   <ItemGroup>
-    <AppXManifest Include="C:\Users\reign\source\repos\AllStudy\AllStudy\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\AppxManifest.xml">
+    <AppXManifest Include="C:\Users\reign\source\repos\BSCS3A-AllStudy\AllStudy\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\AppxManifest.xml">
       <PackagePath>AppxManifest.xml</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
     </AppXManifest>
   </ItemGroup>
   <ItemGroup>
-    <AppxPackagedFile Include="C:\Users\reign\source\repos\AllStudy\AllStudy\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\resources.pri">
+    <AppxPackagedFile Include="C:\Users\reign\source\repos\BSCS3A-AllStudy\AllStudy\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\resources.pri">
       <PackagePath>resources.pri</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\reign\source\repos\AllStudy\AllStudy\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\AllStudy.runtimeconfig.json">
+    <AppxPackagedFile Include="C:\Users\reign\source\repos\BSCS3A-AllStudy\AllStudy\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\AllStudy.runtimeconfig.json">
       <PackagePath>AllStudy.runtimeconfig.json</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\reign\source\repos\AllStudy\AllStudy\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\AllStudy.dll">
+    <AppxPackagedFile Include="C:\Users\reign\source\repos\BSCS3A-AllStudy\AllStudy\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\AllStudy.dll">
       <PackagePath>AllStudy.dll</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\reign\source\repos\AllStudy\AllStudy\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\apphost.exe">
+    <AppxPackagedFile Include="C:\Users\reign\source\repos\BSCS3A-AllStudy\AllStudy\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\apphost.exe">
       <PackagePath>AllStudy.exe</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\reign\source\repos\AllStudy\AllStudy\Resources\Raw\AboutAssets.txt">
+    <AppxPackagedFile Include="C:\Users\reign\source\repos\BSCS3A-AllStudy\AllStudy\Resources\Raw\AboutAssets.txt">
       <PackagePath>AboutAssets.txt</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\reign\source\repos\AllStudy\AllStudy\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\sp\splashSplashScreen.scale-100.png">
+    <AppxPackagedFile Include="C:\Users\reign\source\repos\BSCS3A-AllStudy\AllStudy\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\sp\splashSplashScreen.scale-100.png">
       <PackagePath>splashSplashScreen.scale-100.png</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\reign\source\repos\AllStudy\AllStudy\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\sp\splashSplashScreen.scale-125.png">
+    <AppxPackagedFile Include="C:\Users\reign\source\repos\BSCS3A-AllStudy\AllStudy\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\sp\splashSplashScreen.scale-125.png">
       <PackagePath>splashSplashScreen.scale-125.png</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\reign\source\repos\AllStudy\AllStudy\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\sp\splashSplashScreen.scale-150.png">
+    <AppxPackagedFile Include="C:\Users\reign\source\repos\BSCS3A-AllStudy\AllStudy\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\sp\splashSplashScreen.scale-150.png">
       <PackagePath>splashSplashScreen.scale-150.png</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\reign\source\repos\AllStudy\AllStudy\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\sp\splashSplashScreen.scale-200.png">
+    <AppxPackagedFile Include="C:\Users\reign\source\repos\BSCS3A-AllStudy\AllStudy\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\sp\splashSplashScreen.scale-200.png">
       <PackagePath>splashSplashScreen.scale-200.png</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\reign\source\repos\AllStudy\AllStudy\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\sp\splashSplashScreen.scale-400.png">
+    <AppxPackagedFile Include="C:\Users\reign\source\repos\BSCS3A-AllStudy\AllStudy\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\sp\splashSplashScreen.scale-400.png">
       <PackagePath>splashSplashScreen.scale-400.png</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\reign\source\repos\AllStudy\AllStudy\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\f\OpenSans-Regular.ttf">
+    <AppxPackagedFile Include="C:\Users\reign\source\repos\BSCS3A-AllStudy\AllStudy\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\f\OpenSans-Regular.ttf">
       <PackagePath>OpenSans-Regular.ttf</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\reign\source\repos\AllStudy\AllStudy\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\f\OpenSans-Semibold.ttf">
+    <AppxPackagedFile Include="C:\Users\reign\source\repos\BSCS3A-AllStudy\AllStudy\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\f\OpenSans-Semibold.ttf">
       <PackagePath>OpenSans-Semibold.ttf</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\reign\source\repos\AllStudy\AllStudy\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\computerimage.scale-100.png">
+    <AppxPackagedFile Include="C:\Users\reign\source\repos\BSCS3A-AllStudy\AllStudy\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\computerimage.scale-100.png">
       <PackagePath>computerimage.scale-100.png</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\reign\source\repos\AllStudy\AllStudy\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\splashscreen.scale-100.png">
-      <PackagePath>splashscreen.scale-100.png</PackagePath>
+    <AppxPackagedFile Include="C:\Users\reign\source\repos\BSCS3A-AllStudy\AllStudy\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\computerimage1.scale-100.png">
+      <PackagePath>computerimage1.scale-100.png</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\reign\source\repos\AllStudy\AllStudy\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\logo.scale-100.png">
-      <PackagePath>logo.scale-100.png</PackagePath>
+    <AppxPackagedFile Include="C:\Users\reign\source\repos\BSCS3A-AllStudy\AllStudy\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\computerimage1.scale-125.png">
+      <PackagePath>computerimage1.scale-125.png</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\reign\source\repos\AllStudy\AllStudy\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLargeTile.scale-400.png">
-      <PackagePath>appiconLargeTile.scale-400.png</PackagePath>
+    <AppxPackagedFile Include="C:\Users\reign\source\repos\BSCS3A-AllStudy\AllStudy\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\computerimage1.scale-150.png">
+      <PackagePath>computerimage1.scale-150.png</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\reign\source\repos\AllStudy\AllStudy\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLargeTile.scale-200.png">
-      <PackagePath>appiconLargeTile.scale-200.png</PackagePath>
+    <AppxPackagedFile Include="C:\Users\reign\source\repos\BSCS3A-AllStudy\AllStudy\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\computerimage1.scale-200.png">
+      <PackagePath>computerimage1.scale-200.png</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\reign\source\repos\AllStudy\AllStudy\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLargeTile.scale-150.png">
-      <PackagePath>appiconLargeTile.scale-150.png</PackagePath>
+    <AppxPackagedFile Include="C:\Users\reign\source\repos\BSCS3A-AllStudy\AllStudy\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\computerimage1.scale-400.png">
+      <PackagePath>computerimage1.scale-400.png</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\reign\source\repos\AllStudy\AllStudy\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLargeTile.scale-125.png">
-      <PackagePath>appiconLargeTile.scale-125.png</PackagePath>
-    </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\reign\source\repos\AllStudy\AllStudy\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLargeTile.scale-100.png">
-      <PackagePath>appiconLargeTile.scale-100.png</PackagePath>
-    </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\reign\source\repos\AllStudy\AllStudy\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconWideTile.scale-400.png">
-      <PackagePath>appiconWideTile.scale-400.png</PackagePath>
-    </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\reign\source\repos\AllStudy\AllStudy\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconWideTile.scale-200.png">
-      <PackagePath>appiconWideTile.scale-200.png</PackagePath>
-    </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\reign\source\repos\AllStudy\AllStudy\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconWideTile.scale-150.png">
-      <PackagePath>appiconWideTile.scale-150.png</PackagePath>
-    </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\reign\source\repos\AllStudy\AllStudy\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconWideTile.scale-125.png">
-      <PackagePath>appiconWideTile.scale-125.png</PackagePath>
-    </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\reign\source\repos\AllStudy\AllStudy\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconWideTile.scale-100.png">
-      <PackagePath>appiconWideTile.scale-100.png</PackagePath>
-    </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\reign\source\repos\AllStudy\AllStudy\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconMediumTile.scale-400.png">
-      <PackagePath>appiconMediumTile.scale-400.png</PackagePath>
-    </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\reign\source\repos\AllStudy\AllStudy\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconMediumTile.scale-200.png">
-      <PackagePath>appiconMediumTile.scale-200.png</PackagePath>
-    </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\reign\source\repos\AllStudy\AllStudy\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconMediumTile.scale-150.png">
-      <PackagePath>appiconMediumTile.scale-150.png</PackagePath>
-    </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\reign\source\repos\AllStudy\AllStudy\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconMediumTile.scale-125.png">
-      <PackagePath>appiconMediumTile.scale-125.png</PackagePath>
-    </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\reign\source\repos\AllStudy\AllStudy\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconMediumTile.scale-100.png">
-      <PackagePath>appiconMediumTile.scale-100.png</PackagePath>
-    </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\reign\source\repos\AllStudy\AllStudy\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconSmallTile.scale-400.png">
-      <PackagePath>appiconSmallTile.scale-400.png</PackagePath>
-    </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\reign\source\repos\AllStudy\AllStudy\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconSmallTile.scale-200.png">
-      <PackagePath>appiconSmallTile.scale-200.png</PackagePath>
-    </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\reign\source\repos\AllStudy\AllStudy\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconSmallTile.scale-150.png">
-      <PackagePath>appiconSmallTile.scale-150.png</PackagePath>
-    </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\reign\source\repos\AllStudy\AllStudy\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconSmallTile.scale-125.png">
-      <PackagePath>appiconSmallTile.scale-125.png</PackagePath>
-    </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\reign\source\repos\AllStudy\AllStudy\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconSmallTile.scale-100.png">
-      <PackagePath>appiconSmallTile.scale-100.png</PackagePath>
-    </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\reign\source\repos\AllStudy\AllStudy\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconStoreLogo.scale-400.png">
-      <PackagePath>appiconStoreLogo.scale-400.png</PackagePath>
-    </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\reign\source\repos\AllStudy\AllStudy\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconStoreLogo.scale-200.png">
-      <PackagePath>appiconStoreLogo.scale-200.png</PackagePath>
-    </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\reign\source\repos\AllStudy\AllStudy\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconStoreLogo.scale-150.png">
-      <PackagePath>appiconStoreLogo.scale-150.png</PackagePath>
-    </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\reign\source\repos\AllStudy\AllStudy\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconStoreLogo.scale-125.png">
-      <PackagePath>appiconStoreLogo.scale-125.png</PackagePath>
-    </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\reign\source\repos\AllStudy\AllStudy\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconStoreLogo.scale-100.png">
-      <PackagePath>appiconStoreLogo.scale-100.png</PackagePath>
-    </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\reign\source\repos\AllStudy\AllStudy\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.altform-lightunplated_targetsize-256.png">
-      <PackagePath>appiconLogo.altform-lightunplated_targetsize-256.png</PackagePath>
-    </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\reign\source\repos\AllStudy\AllStudy\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.altform-lightunplated_targetsize-48.png">
-      <PackagePath>appiconLogo.altform-lightunplated_targetsize-48.png</PackagePath>
-    </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\reign\source\repos\AllStudy\AllStudy\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.altform-lightunplated_targetsize-32.png">
-      <PackagePath>appiconLogo.altform-lightunplated_targetsize-32.png</PackagePath>
-    </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\reign\source\repos\AllStudy\AllStudy\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.altform-lightunplated_targetsize-24.png">
-      <PackagePath>appiconLogo.altform-lightunplated_targetsize-24.png</PackagePath>
-    </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\reign\source\repos\AllStudy\AllStudy\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.altform-lightunplated_targetsize-16.png">
-      <PackagePath>appiconLogo.altform-lightunplated_targetsize-16.png</PackagePath>
-    </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\reign\source\repos\AllStudy\AllStudy\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.altform-unplated_targetsize-256.png">
-      <PackagePath>appiconLogo.altform-unplated_targetsize-256.png</PackagePath>
-    </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\reign\source\repos\AllStudy\AllStudy\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.altform-unplated_targetsize-48.png">
-      <PackagePath>appiconLogo.altform-unplated_targetsize-48.png</PackagePath>
-    </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\reign\source\repos\AllStudy\AllStudy\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.altform-unplated_targetsize-32.png">
-      <PackagePath>appiconLogo.altform-unplated_targetsize-32.png</PackagePath>
-    </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\reign\source\repos\AllStudy\AllStudy\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.altform-unplated_targetsize-24.png">
-      <PackagePath>appiconLogo.altform-unplated_targetsize-24.png</PackagePath>
-    </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\reign\source\repos\AllStudy\AllStudy\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.altform-unplated_targetsize-16.png">
-      <PackagePath>appiconLogo.altform-unplated_targetsize-16.png</PackagePath>
-    </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\reign\source\repos\AllStudy\AllStudy\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.targetsize-256.png">
-      <PackagePath>appiconLogo.targetsize-256.png</PackagePath>
-    </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\reign\source\repos\AllStudy\AllStudy\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.targetsize-48.png">
-      <PackagePath>appiconLogo.targetsize-48.png</PackagePath>
-    </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\reign\source\repos\AllStudy\AllStudy\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.targetsize-32.png">
-      <PackagePath>appiconLogo.targetsize-32.png</PackagePath>
-    </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\reign\source\repos\AllStudy\AllStudy\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.targetsize-24.png">
-      <PackagePath>appiconLogo.targetsize-24.png</PackagePath>
-    </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\reign\source\repos\AllStudy\AllStudy\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.targetsize-16.png">
-      <PackagePath>appiconLogo.targetsize-16.png</PackagePath>
-    </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\reign\source\repos\AllStudy\AllStudy\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.scale-400.png">
-      <PackagePath>appiconLogo.scale-400.png</PackagePath>
-    </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\reign\source\repos\AllStudy\AllStudy\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.scale-200.png">
-      <PackagePath>appiconLogo.scale-200.png</PackagePath>
-    </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\reign\source\repos\AllStudy\AllStudy\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.scale-150.png">
-      <PackagePath>appiconLogo.scale-150.png</PackagePath>
-    </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\reign\source\repos\AllStudy\AllStudy\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.scale-125.png">
-      <PackagePath>appiconLogo.scale-125.png</PackagePath>
-    </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\reign\source\repos\AllStudy\AllStudy\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.scale-100.png">
-      <PackagePath>appiconLogo.scale-100.png</PackagePath>
-    </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\reign\source\repos\AllStudy\AllStudy\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appicon.ico">
-      <PackagePath>appicon.ico</PackagePath>
-    </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\reign\source\repos\AllStudy\AllStudy\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\dotnet_bot.scale-400.png">
-      <PackagePath>dotnet_bot.scale-400.png</PackagePath>
-    </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\reign\source\repos\AllStudy\AllStudy\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\dotnet_bot.scale-200.png">
-      <PackagePath>dotnet_bot.scale-200.png</PackagePath>
-    </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\reign\source\repos\AllStudy\AllStudy\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\dotnet_bot.scale-150.png">
-      <PackagePath>dotnet_bot.scale-150.png</PackagePath>
-    </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\reign\source\repos\AllStudy\AllStudy\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\dotnet_bot.scale-125.png">
-      <PackagePath>dotnet_bot.scale-125.png</PackagePath>
-    </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\reign\source\repos\AllStudy\AllStudy\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\dotnet_bot.scale-100.png">
+    <AppxPackagedFile Include="C:\Users\reign\source\repos\BSCS3A-AllStudy\AllStudy\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\dotnet_bot.scale-100.png">
       <PackagePath>dotnet_bot.scale-100.png</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\reign\source\repos\AllStudy\AllStudy\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\AllStudy.deps.json">
+    <AppxPackagedFile Include="C:\Users\reign\source\repos\BSCS3A-AllStudy\AllStudy\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\dotnet_bot.scale-125.png">
+      <PackagePath>dotnet_bot.scale-125.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\reign\source\repos\BSCS3A-AllStudy\AllStudy\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\dotnet_bot.scale-150.png">
+      <PackagePath>dotnet_bot.scale-150.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\reign\source\repos\BSCS3A-AllStudy\AllStudy\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\dotnet_bot.scale-200.png">
+      <PackagePath>dotnet_bot.scale-200.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\reign\source\repos\BSCS3A-AllStudy\AllStudy\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\dotnet_bot.scale-400.png">
+      <PackagePath>dotnet_bot.scale-400.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\reign\source\repos\BSCS3A-AllStudy\AllStudy\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\logo.scale-100.png">
+      <PackagePath>logo.scale-100.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\reign\source\repos\BSCS3A-AllStudy\AllStudy\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\logo0.ico">
+      <PackagePath>logo0.ico</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\reign\source\repos\BSCS3A-AllStudy\AllStudy\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\logo0LargeTile.scale-100.png">
+      <PackagePath>logo0LargeTile.scale-100.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\reign\source\repos\BSCS3A-AllStudy\AllStudy\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\logo0LargeTile.scale-125.png">
+      <PackagePath>logo0LargeTile.scale-125.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\reign\source\repos\BSCS3A-AllStudy\AllStudy\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\logo0LargeTile.scale-150.png">
+      <PackagePath>logo0LargeTile.scale-150.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\reign\source\repos\BSCS3A-AllStudy\AllStudy\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\logo0LargeTile.scale-200.png">
+      <PackagePath>logo0LargeTile.scale-200.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\reign\source\repos\BSCS3A-AllStudy\AllStudy\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\logo0LargeTile.scale-400.png">
+      <PackagePath>logo0LargeTile.scale-400.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\reign\source\repos\BSCS3A-AllStudy\AllStudy\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\logo0Logo.altform-lightunplated_targetsize-16.png">
+      <PackagePath>logo0Logo.altform-lightunplated_targetsize-16.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\reign\source\repos\BSCS3A-AllStudy\AllStudy\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\logo0Logo.altform-lightunplated_targetsize-24.png">
+      <PackagePath>logo0Logo.altform-lightunplated_targetsize-24.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\reign\source\repos\BSCS3A-AllStudy\AllStudy\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\logo0Logo.altform-lightunplated_targetsize-256.png">
+      <PackagePath>logo0Logo.altform-lightunplated_targetsize-256.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\reign\source\repos\BSCS3A-AllStudy\AllStudy\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\logo0Logo.altform-lightunplated_targetsize-32.png">
+      <PackagePath>logo0Logo.altform-lightunplated_targetsize-32.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\reign\source\repos\BSCS3A-AllStudy\AllStudy\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\logo0Logo.altform-lightunplated_targetsize-48.png">
+      <PackagePath>logo0Logo.altform-lightunplated_targetsize-48.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\reign\source\repos\BSCS3A-AllStudy\AllStudy\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\logo0Logo.altform-unplated_targetsize-16.png">
+      <PackagePath>logo0Logo.altform-unplated_targetsize-16.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\reign\source\repos\BSCS3A-AllStudy\AllStudy\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\logo0Logo.altform-unplated_targetsize-24.png">
+      <PackagePath>logo0Logo.altform-unplated_targetsize-24.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\reign\source\repos\BSCS3A-AllStudy\AllStudy\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\logo0Logo.altform-unplated_targetsize-256.png">
+      <PackagePath>logo0Logo.altform-unplated_targetsize-256.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\reign\source\repos\BSCS3A-AllStudy\AllStudy\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\logo0Logo.altform-unplated_targetsize-32.png">
+      <PackagePath>logo0Logo.altform-unplated_targetsize-32.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\reign\source\repos\BSCS3A-AllStudy\AllStudy\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\logo0Logo.altform-unplated_targetsize-48.png">
+      <PackagePath>logo0Logo.altform-unplated_targetsize-48.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\reign\source\repos\BSCS3A-AllStudy\AllStudy\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\logo0Logo.scale-100.png">
+      <PackagePath>logo0Logo.scale-100.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\reign\source\repos\BSCS3A-AllStudy\AllStudy\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\logo0Logo.scale-125.png">
+      <PackagePath>logo0Logo.scale-125.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\reign\source\repos\BSCS3A-AllStudy\AllStudy\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\logo0Logo.scale-150.png">
+      <PackagePath>logo0Logo.scale-150.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\reign\source\repos\BSCS3A-AllStudy\AllStudy\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\logo0Logo.scale-200.png">
+      <PackagePath>logo0Logo.scale-200.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\reign\source\repos\BSCS3A-AllStudy\AllStudy\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\logo0Logo.scale-400.png">
+      <PackagePath>logo0Logo.scale-400.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\reign\source\repos\BSCS3A-AllStudy\AllStudy\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\logo0Logo.targetsize-16.png">
+      <PackagePath>logo0Logo.targetsize-16.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\reign\source\repos\BSCS3A-AllStudy\AllStudy\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\logo0Logo.targetsize-24.png">
+      <PackagePath>logo0Logo.targetsize-24.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\reign\source\repos\BSCS3A-AllStudy\AllStudy\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\logo0Logo.targetsize-256.png">
+      <PackagePath>logo0Logo.targetsize-256.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\reign\source\repos\BSCS3A-AllStudy\AllStudy\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\logo0Logo.targetsize-32.png">
+      <PackagePath>logo0Logo.targetsize-32.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\reign\source\repos\BSCS3A-AllStudy\AllStudy\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\logo0Logo.targetsize-48.png">
+      <PackagePath>logo0Logo.targetsize-48.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\reign\source\repos\BSCS3A-AllStudy\AllStudy\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\logo0MediumTile.scale-100.png">
+      <PackagePath>logo0MediumTile.scale-100.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\reign\source\repos\BSCS3A-AllStudy\AllStudy\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\logo0MediumTile.scale-125.png">
+      <PackagePath>logo0MediumTile.scale-125.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\reign\source\repos\BSCS3A-AllStudy\AllStudy\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\logo0MediumTile.scale-150.png">
+      <PackagePath>logo0MediumTile.scale-150.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\reign\source\repos\BSCS3A-AllStudy\AllStudy\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\logo0MediumTile.scale-200.png">
+      <PackagePath>logo0MediumTile.scale-200.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\reign\source\repos\BSCS3A-AllStudy\AllStudy\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\logo0MediumTile.scale-400.png">
+      <PackagePath>logo0MediumTile.scale-400.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\reign\source\repos\BSCS3A-AllStudy\AllStudy\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\logo0SmallTile.scale-100.png">
+      <PackagePath>logo0SmallTile.scale-100.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\reign\source\repos\BSCS3A-AllStudy\AllStudy\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\logo0SmallTile.scale-125.png">
+      <PackagePath>logo0SmallTile.scale-125.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\reign\source\repos\BSCS3A-AllStudy\AllStudy\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\logo0SmallTile.scale-150.png">
+      <PackagePath>logo0SmallTile.scale-150.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\reign\source\repos\BSCS3A-AllStudy\AllStudy\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\logo0SmallTile.scale-200.png">
+      <PackagePath>logo0SmallTile.scale-200.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\reign\source\repos\BSCS3A-AllStudy\AllStudy\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\logo0SmallTile.scale-400.png">
+      <PackagePath>logo0SmallTile.scale-400.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\reign\source\repos\BSCS3A-AllStudy\AllStudy\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\logo0StoreLogo.scale-100.png">
+      <PackagePath>logo0StoreLogo.scale-100.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\reign\source\repos\BSCS3A-AllStudy\AllStudy\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\logo0StoreLogo.scale-125.png">
+      <PackagePath>logo0StoreLogo.scale-125.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\reign\source\repos\BSCS3A-AllStudy\AllStudy\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\logo0StoreLogo.scale-150.png">
+      <PackagePath>logo0StoreLogo.scale-150.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\reign\source\repos\BSCS3A-AllStudy\AllStudy\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\logo0StoreLogo.scale-200.png">
+      <PackagePath>logo0StoreLogo.scale-200.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\reign\source\repos\BSCS3A-AllStudy\AllStudy\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\logo0StoreLogo.scale-400.png">
+      <PackagePath>logo0StoreLogo.scale-400.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\reign\source\repos\BSCS3A-AllStudy\AllStudy\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\logo0WideTile.scale-100.png">
+      <PackagePath>logo0WideTile.scale-100.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\reign\source\repos\BSCS3A-AllStudy\AllStudy\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\logo0WideTile.scale-125.png">
+      <PackagePath>logo0WideTile.scale-125.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\reign\source\repos\BSCS3A-AllStudy\AllStudy\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\logo0WideTile.scale-150.png">
+      <PackagePath>logo0WideTile.scale-150.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\reign\source\repos\BSCS3A-AllStudy\AllStudy\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\logo0WideTile.scale-200.png">
+      <PackagePath>logo0WideTile.scale-200.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\reign\source\repos\BSCS3A-AllStudy\AllStudy\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\logo0WideTile.scale-400.png">
+      <PackagePath>logo0WideTile.scale-400.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\reign\source\repos\BSCS3A-AllStudy\AllStudy\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\logo2.scale-100.png">
+      <PackagePath>logo2.scale-100.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\reign\source\repos\BSCS3A-AllStudy\AllStudy\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\logo2.scale-125.png">
+      <PackagePath>logo2.scale-125.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\reign\source\repos\BSCS3A-AllStudy\AllStudy\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\logo2.scale-150.png">
+      <PackagePath>logo2.scale-150.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\reign\source\repos\BSCS3A-AllStudy\AllStudy\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\logo2.scale-200.png">
+      <PackagePath>logo2.scale-200.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\reign\source\repos\BSCS3A-AllStudy\AllStudy\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\logo2.scale-400.png">
+      <PackagePath>logo2.scale-400.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\reign\source\repos\BSCS3A-AllStudy\AllStudy\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\splashscreen.scale-100.png">
+      <PackagePath>splashscreen.scale-100.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\reign\source\repos\BSCS3A-AllStudy\AllStudy\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\AllStudy.deps.json">
       <PackagePath>AllStudy.deps.json</PackagePath>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\reign\.nuget\packages\microsoft.windows.sdk.net.ref\10.0.19041.34\lib\net6.0\Microsoft.Windows.SDK.NET.dll">
