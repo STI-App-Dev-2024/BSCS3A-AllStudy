@@ -42,9 +42,8 @@
 		<!-- App Icon -->
 		<MauiIcon Include="Resources\AppIcon\logo0.svg" ForegroundFile="Resources\AppIcon\appiconfg1.svg" Color="#512BD4" />
 		
-
 		<!-- Splash Screen -->
-		<MauiSplashScreen Include="Resources\Splash\splash.svg" Color="#512BD4" BaseSize="128,128" />		
+		<MauiSplashScreen Include="Resources\Splash\allstudysplash.svg" Color="#512BD4"/>		
 		
 
 		<!-- Images -->
@@ -65,8 +64,14 @@
 	  <None Remove="Resources\Images\logo.png" />
 	  <None Remove="Resources\Images\logo2.svg" />
 	  <None Remove="Resources\Images\splashscreen.png" />
+	  <None Remove="Resources\Splash\allstudysplash.svg" />
 	  <None Remove="Resources\Splash\splashscreen1.svg" />
 	  <None Remove="Resources\Splash\splashscreen2.svg" />
+	</ItemGroup>
+
+	<ItemGroup>
+	  <MauiSplashScreen Include="Resources\Raw\splashscreen.png" />
+	  <MauiSplashScreen Include="Resources\Splash\allstudysplash.svg" />
 	</ItemGroup>
 
 	<ItemGroup>

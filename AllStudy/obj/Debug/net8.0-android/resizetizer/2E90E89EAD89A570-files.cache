@@ -1,6 +1,5 @@
 ﻿obj\Debug\net8.0-android\resizetizer\r\drawable\computerimage.png
 obj\Debug\net8.0-android\resizetizer\r\drawable\logo.png
-obj\Debug\net8.0-android\resizetizer\r\drawable\splashscreen.png
 obj\Debug\net8.0-android\resizetizer\r\drawable-hdpi\computerimage1.png
 obj\Debug\net8.0-android\resizetizer\r\drawable-hdpi\dotnet_bot.png
 obj\Debug\net8.0-android\resizetizer\r\drawable-hdpi\logo2.png
@@ -21,20 +20,15 @@ obj\Debug\net8.0-android\resizetizer\r\mipmap-anydpi-v26\logo0_round.xml
 obj\Debug\net8.0-android\resizetizer\r\mipmap-hdpi\logo0.png
 obj\Debug\net8.0-android\resizetizer\r\mipmap-hdpi\logo0_background.png
 obj\Debug\net8.0-android\resizetizer\r\mipmap-hdpi\logo0_foreground.png
-obj\Debug\net8.0-android\resizetizer\r\mipmap-hdpi\logo0_round.png
 obj\Debug\net8.0-android\resizetizer\r\mipmap-mdpi\logo0.png
 obj\Debug\net8.0-android\resizetizer\r\mipmap-mdpi\logo0_background.png
 obj\Debug\net8.0-android\resizetizer\r\mipmap-mdpi\logo0_foreground.png
-obj\Debug\net8.0-android\resizetizer\r\mipmap-mdpi\logo0_round.png
 obj\Debug\net8.0-android\resizetizer\r\mipmap-xhdpi\logo0.png
 obj\Debug\net8.0-android\resizetizer\r\mipmap-xhdpi\logo0_background.png
 obj\Debug\net8.0-android\resizetizer\r\mipmap-xhdpi\logo0_foreground.png
-obj\Debug\net8.0-android\resizetizer\r\mipmap-xhdpi\logo0_round.png
 obj\Debug\net8.0-android\resizetizer\r\mipmap-xxhdpi\logo0.png
 obj\Debug\net8.0-android\resizetizer\r\mipmap-xxhdpi\logo0_background.png
 obj\Debug\net8.0-android\resizetizer\r\mipmap-xxhdpi\logo0_foreground.png
-obj\Debug\net8.0-android\resizetizer\r\mipmap-xxhdpi\logo0_round.png
 obj\Debug\net8.0-android\resizetizer\r\mipmap-xxxhdpi\logo0.png
 obj\Debug\net8.0-android\resizetizer\r\mipmap-xxxhdpi\logo0_background.png
 obj\Debug\net8.0-android\resizetizer\r\mipmap-xxxhdpi\logo0_foreground.png
-obj\Debug\net8.0-android\resizetizer\r\mipmap-xxxhdpi\logo0_round.png

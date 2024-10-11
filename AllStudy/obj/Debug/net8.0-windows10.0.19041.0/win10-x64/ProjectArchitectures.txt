@@ -1,1 +1,1 @@
-C:\Users\reign\source\repos\BSCS3A-AllStudy\AllStudy\AllStudy.csproj;x64
+C:\Users\nowel\AllStudy\BSCS3A-AllStudy\AllStudy\AllStudy.csproj;x64
