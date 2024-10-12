@@ -9,31 +9,31 @@ public partial class SignInPage : ContentPage
     public SignInPage()
     {
         InitializeComponent();
+        
         this.BackgroundColor = Color.FromArgb("#F0F5F9");
         this.Loaded += OnPageLoaded;
     }
 
     private async void OnPageLoaded(object sender, EventArgs e)
     {
-        // Set initial opacity to 0 for the images and buttons
+       
         logoImage.Opacity = 0;
         computerImage.Opacity = 0;
         signInButton.Opacity = 0;
         signUpButton.Opacity = 0;
-        greetingLabel.IsVisible = true;  // Make the greeting label visible
-        greetingLabel.Opacity = 0; // Set initial opacity for the greeting label
+        greetingLabel.IsVisible = true; 
+        greetingLabel.Opacity = 0;
 
-        // Fade in the greeting message
+     
         await greetingLabel.FadeTo(1, 800, Easing.CubicInOut);
 
-        // Wait for 2 seconds
+        
         await Task.Delay(2000);
 
-        // Fade out the greeting message
         await greetingLabel.FadeTo(0, 800, Easing.CubicInOut);
-        greetingLabel.IsVisible = false; // Hide the label after fading out
+        greetingLabel.IsVisible = false; 
 
-        // Perform fade animations for logo and buttons
+        
         await Task.WhenAll(
             logoImage.FadeTo(1, 800, Easing.CubicInOut),
             computerImage.FadeTo(1, 1000, Easing.CubicInOut),
@@ -42,27 +42,13 @@ public partial class SignInPage : ContentPage
         );
     }
 
-    public object Convert(object value, Type targetType, object parameter, CultureInfo culture)
+    private async void SignInButtonClicked(object sender, EventArgs e)
     {
-        if (value is double height)
-        {
-            return height / 2;
-        }
-        return 0;
+        await Navigation.PushAsync(new TeacherStudentlogIn());
     }
 
-    public object ConvertBack(object value, Type targetType, object parameter, CultureInfo culture)
+    private async void SignUpButtonClicked(object sender, EventArgs e)
     {
-        throw new NotImplementedException();
-    }
-
-    private void SignInButtonClicked(object sender, EventArgs e)
-    {
-        // Handle sign-in button click
-    }
-
-    private void SignUpButtonClicked(object sender, EventArgs e)
-    {
-        // Handle sign-up button click
+        await Navigation.PushAsync(new TeacherStudentlogIn());
     }
 }

@@ -7,6 +7,7 @@
         public MainPage()
         {
             InitializeComponent();
+             
         }
         protected override async void OnAppearing()
         {
@@ -20,7 +21,7 @@
             
             ShowLoading(false);
 
-            Application.Current.MainPage = new SignInPage();
+            Application.Current.MainPage =new NavigationPage( new SignInPage());
         }
 
             

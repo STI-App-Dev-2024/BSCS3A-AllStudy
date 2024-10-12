@@ -3,11 +3,11 @@
              xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
              x:Class="AllStudy.MainPage"
              Title=""
-             >
+             BackgroundColor="#F0F5F9">
     <Grid>
         
         <Image
-            Source="splashscreen.png"
+            Source="mainscreen.svg"
             Aspect="AspectFill"
             HorizontalOptions="FillAndExpand"
             VerticalOptions="FillAndExpand" />

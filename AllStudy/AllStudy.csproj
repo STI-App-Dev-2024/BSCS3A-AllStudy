@@ -43,9 +43,7 @@
 		<MauiIcon Include="Resources\AppIcon\logo0.svg" ForegroundFile="Resources\AppIcon\appiconfg1.svg" Color="#512BD4" />
 		
 		<!-- Splash Screen -->
-		<MauiSplashScreen Include="Resources\Splash\allstudysplash.svg" Color="#512BD4"/>		
-		
-
+		<MauiSplashScreen Include="Resources\Splash\splashstudy.svg" Color="#F0F5F9" />
 		<!-- Images -->
 		<MauiImage Include="Resources\Images\*" />
 		<MauiImage Update="Resources\Images\dotnet_bot.png" Resize="True" BaseSize="300,185" />
@@ -63,15 +61,20 @@
 	  <None Remove="Resources\Images\computerimage1.svg" />
 	  <None Remove="Resources\Images\logo.png" />
 	  <None Remove="Resources\Images\logo2.svg" />
+	  <None Remove="Resources\Images\mainscreen.svg" />
 	  <None Remove="Resources\Images\splashscreen.png" />
+	  <None Remove="Resources\Images\student.svg" />
+	  <None Remove="Resources\Images\teacher.svg" />
 	  <None Remove="Resources\Splash\allstudysplash.svg" />
 	  <None Remove="Resources\Splash\splashscreen1.svg" />
 	  <None Remove="Resources\Splash\splashscreen2.svg" />
+	  <None Remove="Resources\Splash\splashstudy.svg" />
 	</ItemGroup>
 
 	<ItemGroup>
 	  <MauiSplashScreen Include="Resources\Raw\splashscreen.png" />
 	  <MauiSplashScreen Include="Resources\Splash\allstudysplash.svg" />
+	  <MauiSplashScreen Include="Resources\Splash\splashstudy.svg" />
 	</ItemGroup>
 
 	<ItemGroup>
@@ -82,6 +85,9 @@
 
 	<ItemGroup>
 	  <MauiXaml Update="SignInPage.xaml">
+	    <Generator>MSBuild:Compile</Generator>
+	  </MauiXaml>
+	  <MauiXaml Update="TeacherStudentlogIn.xaml">
 	    <Generator>MSBuild:Compile</Generator>
 	  </MauiXaml>
 	</ItemGroup>

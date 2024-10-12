@@ -1,2 +1,2 @@
-AdbTarget=-s CNXNU20A10201026
+AdbTarget=-s emulator-5554
 AdbOptions=

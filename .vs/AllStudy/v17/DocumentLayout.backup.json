@@ -3,40 +3,20 @@
   "WorkspaceRootPath": "C:\\Users\\reign\\source\\repos\\BSCS3A-AllStudy\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{9463EF9E-88FB-4BB9-8AB9-D33DBF95D796}|AllStudy\\AllStudy.csproj|c:\\users\\reign\\source\\repos\\bscs3a-allstudy\\allstudy\\allstudy.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
-      "RelativeMoniker": "D:0:0:{9463EF9E-88FB-4BB9-8AB9-D33DBF95D796}|AllStudy\\AllStudy.csproj|solutionrelative:allstudy\\allstudy.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{9463EF9E-88FB-4BB9-8AB9-D33DBF95D796}|AllStudy\\AllStudy.csproj|c:\\users\\reign\\source\\repos\\bscs3a-allstudy\\allstudy\\resources\\appicon\\logo0.svg||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
-      "RelativeMoniker": "D:0:0:{9463EF9E-88FB-4BB9-8AB9-D33DBF95D796}|AllStudy\\AllStudy.csproj|solutionrelative:allstudy\\resources\\appicon\\logo0.svg||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{9463EF9E-88FB-4BB9-8AB9-D33DBF95D796}|AllStudy\\AllStudy.csproj|c:\\users\\reign\\source\\repos\\bscs3a-allstudy\\allstudy\\resources\\appicon\\appiconfg.svg||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
-      "RelativeMoniker": "D:0:0:{9463EF9E-88FB-4BB9-8AB9-D33DBF95D796}|AllStudy\\AllStudy.csproj|solutionrelative:allstudy\\resources\\appicon\\appiconfg.svg||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{9463EF9E-88FB-4BB9-8AB9-D33DBF95D796}|AllStudy\\AllStudy.csproj|c:\\users\\reign\\source\\repos\\bscs3a-allstudy\\allstudy\\platforms\\android\\androidmanifest.xml||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
-      "RelativeMoniker": "D:0:0:{9463EF9E-88FB-4BB9-8AB9-D33DBF95D796}|AllStudy\\AllStudy.csproj|solutionrelative:allstudy\\platforms\\android\\androidmanifest.xml||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{9463EF9E-88FB-4BB9-8AB9-D33DBF95D796}|AllStudy\\AllStudy.csproj|c:\\users\\reign\\source\\repos\\bscs3a-allstudy\\allstudy\\mainpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
-      "RelativeMoniker": "D:0:0:{9463EF9E-88FB-4BB9-8AB9-D33DBF95D796}|AllStudy\\AllStudy.csproj|solutionrelative:allstudy\\mainpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+      "AbsoluteMoniker": "D:0:0:{9463EF9E-88FB-4BB9-8AB9-D33DBF95D796}|AllStudy\\AllStudy.csproj|c:\\users\\reign\\source\\repos\\bscs3a-allstudy\\allstudy\\teacherstudentlogin.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{9463EF9E-88FB-4BB9-8AB9-D33DBF95D796}|AllStudy\\AllStudy.csproj|solutionrelative:allstudy\\teacherstudentlogin.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{9463EF9E-88FB-4BB9-8AB9-D33DBF95D796}|AllStudy\\AllStudy.csproj|c:\\users\\reign\\source\\repos\\bscs3a-allstudy\\allstudy\\signinpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
       "RelativeMoniker": "D:0:0:{9463EF9E-88FB-4BB9-8AB9-D33DBF95D796}|AllStudy\\AllStudy.csproj|solutionrelative:allstudy\\signinpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{9463EF9E-88FB-4BB9-8AB9-D33DBF95D796}|AllStudy\\AllStudy.csproj|c:\\users\\reign\\source\\repos\\bscs3a-allstudy\\allstudy\\resources\\appicon\\appicon.svg||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
-      "RelativeMoniker": "D:0:0:{9463EF9E-88FB-4BB9-8AB9-D33DBF95D796}|AllStudy\\AllStudy.csproj|solutionrelative:allstudy\\resources\\appicon\\appicon.svg||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{9463EF9E-88FB-4BB9-8AB9-D33DBF95D796}|AllStudy\\AllStudy.csproj|c:\\users\\reign\\source\\repos\\bscs3a-allstudy\\allstudy\\mainpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{9463EF9E-88FB-4BB9-8AB9-D33DBF95D796}|AllStudy\\AllStudy.csproj|solutionrelative:allstudy\\mainpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{9463EF9E-88FB-4BB9-8AB9-D33DBF95D796}|AllStudy\\AllStudy.csproj|c:\\users\\reign\\source\\repos\\bscs3a-allstudy\\allstudy\\signinpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{9463EF9E-88FB-4BB9-8AB9-D33DBF95D796}|AllStudy\\AllStudy.csproj|solutionrelative:allstudy\\signinpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9463EF9E-88FB-4BB9-8AB9-D33DBF95D796}|AllStudy\\AllStudy.csproj|c:\\users\\reign\\source\\repos\\bscs3a-allstudy\\allstudy\\teacherstudentlogin.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9463EF9E-88FB-4BB9-8AB9-D33DBF95D796}|AllStudy\\AllStudy.csproj|solutionrelative:allstudy\\teacherstudentlogin.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -46,122 +26,56 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "AllStudy",
-              "DocumentMoniker": "C:\\Users\\reign\\source\\repos\\BSCS3A-AllStudy\\AllStudy\\AllStudy.csproj",
-              "RelativeDocumentMoniker": "AllStudy\\AllStudy.csproj",
-              "ToolTip": "C:\\Users\\reign\\source\\repos\\BSCS3A-AllStudy\\AllStudy\\AllStudy.csproj",
-              "RelativeToolTip": "AllStudy\\AllStudy.csproj",
-              "ViewState": "AgIAACEAAAAAAAAAAAAAACoAAABeAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2024-10-10T15:34:00.546Z",
-              "IsPinned": true,
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "logo0.svg",
-              "DocumentMoniker": "C:\\Users\\reign\\source\\repos\\BSCS3A-AllStudy\\AllStudy\\Resources\\AppIcon\\logo0.svg",
-              "RelativeDocumentMoniker": "AllStudy\\Resources\\AppIcon\\logo0.svg",
-              "ToolTip": "C:\\Users\\reign\\source\\repos\\BSCS3A-AllStudy\\AllStudy\\Resources\\AppIcon\\logo0.svg",
-              "RelativeToolTip": "AllStudy\\Resources\\AppIcon\\logo0.svg",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAABAAAAAAAAAAA==",
-              "Icon": "00000000-0000-0000-0000-000000000000.000000|iVBORw0KGgoAAAANSUhEUgAAABQAAAAUCAYAAACNiR0NAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAAQKSURBVDhPrVRbTCNVGP5OOzO9TKEWSrGUttpdpV2ua7ioaDa7ullcdVe8rHFNjPFBY4hGY0wIJprw5ItmCdEXL/FRE4MQsw9LiCthIcFFxA3hFiEsLQUKpaW03XZmOuOZaQsY9W2/5J/zz3/55j///OfgrkJRFFJQD9DX13elrq7uXVWnfk2KugpZlpHJZJBKpYa6u7u7gsFgWHP8HyjhHE2Sc7ncf4okSfLMzIw8NTUl9/f3/xgIBGoKqRr0hfUAHR0dXW1tbXaZFiQJccjpWyDJbyBsfQ9x46oW81dIRHNLG0wmk4/juOr19fVbUQrV9w9CrvVl4m9s7VpIG\u002BxL6\u002BMolb6EaesrSOFhgNRAVtyQIhMIbgPeB1ths9kYs9l8vKyszD0/P39jnyJPSAj4hy7YPE\u002B/\u002BUmJ0/NkS4DlzlRegXXzGmZWmvBT4j0sGy6jvvE85O05JEUeN6ZXMT09jUQioafEgdHR0R/i8XiYUfmMdees3ovvfPhEc/VbL9Qvm5vljxBdTGM81YMl33MICiZMLG8iJa7iRUct/I3HUA0HBEGAxWLB7OysVpcKnfpwdLzd3haoePVS7WRpS/oDsjeTwTrpRbqiE2wK4EUJnvuqcHM7h7HY/SAlHtjt5XA6nbBardDr9QdToBF6nZbOZ/1z5Q3i52RnSoS54TvUP9yJSyedeKXBjuTGNmycAYQ3YSrKYiejpVFQkiOjpULb8omK\u002BOOPWL81JVeM\u002BEL8GKFfWYjSn/Qn0GDQucsxKGd0YDkWK9tZxPYFVJUaVS7a/8MZVcFUORnu9YZr1ezaMrmu\u002B1ThW84Sn0IrKATlSRWIdwTaMxFZSYKk2jS36skTFkmZ0ILnYmzlZ8Nk8g1lzn0u99vEor6p0kwUeiLUIJVQTSR0MF202ka3BQ4Lp9nydHnCIhglEX5p67Yrez13GmJKYXgTq2v32clJFw\u002BrkUEiI2JyNYa1WFrNhNtmhoXaDzkOyVQwmVCmPZYy/DK\u002ByZzwMHFvpc9FhjfSGF7agkK3yHAMcpZyxHJm7EZ28ZSOgKVShFb/kQp10h4xne/JXg5v7ny2OLcSvb2xrwh8CeicgBx/AFmXFxF6h0QiUfiMEp6pqwSnL/7lf0Pf8xocp\u002B6N\u002BW6OL4x5nayYjIv\u002BRFLmQ5E9RHfiuBPdBbu/h9p7GLx/\u002BhjKeNo/erK02mhlhOpra2sYHBz8mp6asJ7O62R4E2cC3NYpV2Rs1lndaD776GN\u002BB5tDjZVBaxWPC7UOPN9UBSOrTVl\u002Bn4VdE52OEgYxNDSkEeatR9Db2zumXl\u002BiKBZEkEUhL/SoFSR7sKoxIyMjstvtblHzC588BG3w7wMDA\u002B0FXRP1Ui02vmgrigpa2R902dVe7i6AvwHcTSP/8z9AyQAAAABJRU5ErkJggg==",
-              "WhenOpened": "2024-10-10T15:43:48.965Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 3,
-              "Title": "AndroidManifest.xml",
-              "DocumentMoniker": "C:\\Users\\reign\\source\\repos\\BSCS3A-AllStudy\\AllStudy\\Platforms\\Android\\AndroidManifest.xml",
-              "RelativeDocumentMoniker": "AllStudy\\Platforms\\Android\\AndroidManifest.xml",
-              "ToolTip": "C:\\Users\\reign\\source\\repos\\BSCS3A-AllStudy\\AllStudy\\Platforms\\Android\\AndroidManifest.xml",
-              "RelativeToolTip": "AllStudy\\Platforms\\Android\\AndroidManifest.xml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAABmAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003576|",
-              "WhenOpened": "2024-10-10T15:43:12.021Z",
+              "Title": "TeacherStudentlogIn.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\reign\\source\\repos\\BSCS3A-AllStudy\\AllStudy\\TeacherStudentlogIn.xaml.cs",
+              "RelativeDocumentMoniker": "AllStudy\\TeacherStudentlogIn.xaml.cs",
+              "ToolTip": "C:\\Users\\reign\\source\\repos\\BSCS3A-AllStudy\\AllStudy\\TeacherStudentlogIn.xaml.cs",
+              "RelativeToolTip": "AllStudy\\TeacherStudentlogIn.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-12T05:57:15.126Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "appicon.svg",
-              "DocumentMoniker": "C:\\Users\\reign\\source\\repos\\BSCS3A-AllStudy\\AllStudy\\Resources\\AppIcon\\appicon.svg",
-              "RelativeDocumentMoniker": "AllStudy\\Resources\\AppIcon\\appicon.svg",
-              "ToolTip": "C:\\Users\\reign\\source\\repos\\BSCS3A-AllStudy\\AllStudy\\Resources\\AppIcon\\appicon.svg",
-              "RelativeToolTip": "AllStudy\\Resources\\AppIcon\\appicon.svg",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "00000000-0000-0000-0000-000000000000.000000|iVBORw0KGgoAAAANSUhEUgAAABQAAAAUCAYAAACNiR0NAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAAQKSURBVDhPrVRbTCNVGP5OOzO9TKEWSrGUttpdpV2ua7ioaDa7ullcdVe8rHFNjPFBY4hGY0wIJprw5ItmCdEXL/FRE4MQsw9LiCthIcFFxA3hFiEsLQUKpaW03XZmOuOZaQsY9W2/5J/zz3/55j///OfgrkJRFFJQD9DX13elrq7uXVWnfk2KugpZlpHJZJBKpYa6u7u7gsFgWHP8HyjhHE2Sc7ncf4okSfLMzIw8NTUl9/f3/xgIBGoKqRr0hfUAHR0dXW1tbXaZFiQJccjpWyDJbyBsfQ9x46oW81dIRHNLG0wmk4/juOr19fVbUQrV9w9CrvVl4m9s7VpIG\u002BxL6\u002BMolb6EaesrSOFhgNRAVtyQIhMIbgPeB1ths9kYs9l8vKyszD0/P39jnyJPSAj4hy7YPE\u002B/\u002BUmJ0/NkS4DlzlRegXXzGmZWmvBT4j0sGy6jvvE85O05JEUeN6ZXMT09jUQioafEgdHR0R/i8XiYUfmMdees3ovvfPhEc/VbL9Qvm5vljxBdTGM81YMl33MICiZMLG8iJa7iRUct/I3HUA0HBEGAxWLB7OysVpcKnfpwdLzd3haoePVS7WRpS/oDsjeTwTrpRbqiE2wK4EUJnvuqcHM7h7HY/SAlHtjt5XA6nbBardDr9QdToBF6nZbOZ/1z5Q3i52RnSoS54TvUP9yJSyedeKXBjuTGNmycAYQ3YSrKYiejpVFQkiOjpULb8omK\u002BOOPWL81JVeM\u002BEL8GKFfWYjSn/Qn0GDQucsxKGd0YDkWK9tZxPYFVJUaVS7a/8MZVcFUORnu9YZr1ezaMrmu\u002B1ThW84Sn0IrKATlSRWIdwTaMxFZSYKk2jS36skTFkmZ0ILnYmzlZ8Nk8g1lzn0u99vEor6p0kwUeiLUIJVQTSR0MF202ka3BQ4Lp9nydHnCIhglEX5p67Yrez13GmJKYXgTq2v32clJFw\u002BrkUEiI2JyNYa1WFrNhNtmhoXaDzkOyVQwmVCmPZYy/DK\u002ByZzwMHFvpc9FhjfSGF7agkK3yHAMcpZyxHJm7EZ28ZSOgKVShFb/kQp10h4xne/JXg5v7ny2OLcSvb2xrwh8CeicgBx/AFmXFxF6h0QiUfiMEp6pqwSnL/7lf0Pf8xocp\u002B6N\u002BW6OL4x5nayYjIv\u002BRFLmQ5E9RHfiuBPdBbu/h9p7GLx/\u002BhjKeNo/erK02mhlhOpra2sYHBz8mp6asJ7O62R4E2cC3NYpV2Rs1lndaD776GN\u002BB5tDjZVBaxWPC7UOPN9UBSOrTVl\u002Bn4VdE52OEgYxNDSkEeatR9Db2zumXl\u002BiKBZEkEUhL/SoFSR7sKoxIyMjstvtblHzC588BG3w7wMDA\u002B0FXRP1Ui02vmgrigpa2R902dVe7i6AvwHcTSP/8z9AyQAAAABJRU5ErkJggg==",
-              "WhenOpened": "2024-10-10T15:42:29.639Z",
+              "DocumentIndex": 0,
+              "Title": "TeacherStudentlogIn.xaml",
+              "DocumentMoniker": "C:\\Users\\reign\\source\\repos\\BSCS3A-AllStudy\\AllStudy\\TeacherStudentlogIn.xaml",
+              "RelativeDocumentMoniker": "AllStudy\\TeacherStudentlogIn.xaml",
+              "ToolTip": "C:\\Users\\reign\\source\\repos\\BSCS3A-AllStudy\\AllStudy\\TeacherStudentlogIn.xaml",
+              "RelativeToolTip": "AllStudy\\TeacherStudentlogIn.xaml",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAABIAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-10-12T05:57:14.154Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
-              "Title": "appiconfg.svg",
-              "DocumentMoniker": "C:\\Users\\reign\\source\\repos\\BSCS3A-AllStudy\\AllStudy\\Resources\\AppIcon\\appiconfg.svg",
-              "RelativeDocumentMoniker": "AllStudy\\Resources\\AppIcon\\appiconfg.svg",
-              "ToolTip": "C:\\Users\\reign\\source\\repos\\BSCS3A-AllStudy\\AllStudy\\Resources\\AppIcon\\appiconfg.svg",
-              "RelativeToolTip": "AllStudy\\Resources\\AppIcon\\appiconfg.svg",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "00000000-0000-0000-0000-000000000000.000000|iVBORw0KGgoAAAANSUhEUgAAABQAAAAUCAYAAACNiR0NAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAAQKSURBVDhPrVRbTCNVGP5OOzO9TKEWSrGUttpdpV2ua7ioaDa7ullcdVe8rHFNjPFBY4hGY0wIJprw5ItmCdEXL/FRE4MQsw9LiCthIcFFxA3hFiEsLQUKpaW03XZmOuOZaQsY9W2/5J/zz3/55j///OfgrkJRFFJQD9DX13elrq7uXVWnfk2KugpZlpHJZJBKpYa6u7u7gsFgWHP8HyjhHE2Sc7ncf4okSfLMzIw8NTUl9/f3/xgIBGoKqRr0hfUAHR0dXW1tbXaZFiQJccjpWyDJbyBsfQ9x46oW81dIRHNLG0wmk4/juOr19fVbUQrV9w9CrvVl4m9s7VpIG\u002BxL6\u002BMolb6EaesrSOFhgNRAVtyQIhMIbgPeB1ths9kYs9l8vKyszD0/P39jnyJPSAj4hy7YPE\u002B/\u002BUmJ0/NkS4DlzlRegXXzGmZWmvBT4j0sGy6jvvE85O05JEUeN6ZXMT09jUQioafEgdHR0R/i8XiYUfmMdees3ovvfPhEc/VbL9Qvm5vljxBdTGM81YMl33MICiZMLG8iJa7iRUct/I3HUA0HBEGAxWLB7OysVpcKnfpwdLzd3haoePVS7WRpS/oDsjeTwTrpRbqiE2wK4EUJnvuqcHM7h7HY/SAlHtjt5XA6nbBardDr9QdToBF6nZbOZ/1z5Q3i52RnSoS54TvUP9yJSyedeKXBjuTGNmycAYQ3YSrKYiejpVFQkiOjpULb8omK\u002BOOPWL81JVeM\u002BEL8GKFfWYjSn/Qn0GDQucsxKGd0YDkWK9tZxPYFVJUaVS7a/8MZVcFUORnu9YZr1ezaMrmu\u002B1ThW84Sn0IrKATlSRWIdwTaMxFZSYKk2jS36skTFkmZ0ILnYmzlZ8Nk8g1lzn0u99vEor6p0kwUeiLUIJVQTSR0MF202ka3BQ4Lp9nydHnCIhglEX5p67Yrez13GmJKYXgTq2v32clJFw\u002BrkUEiI2JyNYa1WFrNhNtmhoXaDzkOyVQwmVCmPZYy/DK\u002ByZzwMHFvpc9FhjfSGF7agkK3yHAMcpZyxHJm7EZ28ZSOgKVShFb/kQp10h4xne/JXg5v7ny2OLcSvb2xrwh8CeicgBx/AFmXFxF6h0QiUfiMEp6pqwSnL/7lf0Pf8xocp\u002B6N\u002BW6OL4x5nayYjIv\u002BRFLmQ5E9RHfiuBPdBbu/h9p7GLx/\u002BhjKeNo/erK02mhlhOpra2sYHBz8mp6asJ7O62R4E2cC3NYpV2Rs1lndaD776GN\u002BB5tDjZVBaxWPC7UOPN9UBSOrTVl\u002Bn4VdE52OEgYxNDSkEeatR9Db2zumXl\u002BiKBZEkEUhL/SoFSR7sKoxIyMjstvtblHzC588BG3w7wMDA\u002B0FXRP1Ui02vmgrigpa2R902dVe7i6AvwHcTSP/8z9AyQAAAABJRU5ErkJggg==",
-              "WhenOpened": "2024-10-10T15:39:25.645Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "MainPage.xaml.cs",
-              "DocumentMoniker": "C:\\Users\\reign\\source\\repos\\BSCS3A-AllStudy\\AllStudy\\MainPage.xaml.cs",
-              "RelativeDocumentMoniker": "AllStudy\\MainPage.xaml.cs",
-              "ToolTip": "C:\\Users\\reign\\source\\repos\\BSCS3A-AllStudy\\AllStudy\\MainPage.xaml.cs",
-              "RelativeToolTip": "AllStudy\\MainPage.xaml.cs",
-              "ViewState": "AgIAAAUAAAAAAAAAAAAAwAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-10T14:14:43.918Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "MainPage.xaml",
-              "DocumentMoniker": "C:\\Users\\reign\\source\\repos\\BSCS3A-AllStudy\\AllStudy\\MainPage.xaml",
-              "RelativeDocumentMoniker": "AllStudy\\MainPage.xaml",
-              "ToolTip": "C:\\Users\\reign\\source\\repos\\BSCS3A-AllStudy\\AllStudy\\MainPage.xaml",
-              "RelativeToolTip": "AllStudy\\MainPage.xaml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2024-10-10T14:14:41.274Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
               "Title": "SignInPage.xaml.cs",
               "DocumentMoniker": "C:\\Users\\reign\\source\\repos\\BSCS3A-AllStudy\\AllStudy\\SignInPage.xaml.cs",
               "RelativeDocumentMoniker": "AllStudy\\SignInPage.xaml.cs",
               "ToolTip": "C:\\Users\\reign\\source\\repos\\BSCS3A-AllStudy\\AllStudy\\SignInPage.xaml.cs",
               "RelativeToolTip": "AllStudy\\SignInPage.xaml.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAABAAAAAAAAAA==",
+              "ViewState": "AgIAABoAAAAAAAAAAAAYwBIAAAAHAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-10-10T14:14:29.823Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 1,
               "Title": "SignInPage.xaml",
               "DocumentMoniker": "C:\\Users\\reign\\source\\repos\\BSCS3A-AllStudy\\AllStudy\\SignInPage.xaml",
               "RelativeDocumentMoniker": "AllStudy\\SignInPage.xaml",
               "ToolTip": "C:\\Users\\reign\\source\\repos\\BSCS3A-AllStudy\\AllStudy\\SignInPage.xaml",
               "RelativeToolTip": "AllStudy\\SignInPage.xaml",
-              "ViewState": "AgIAACQAAAAAAAAAAAAAAA8AAAAeAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAeAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
               "WhenOpened": "2024-10-10T12:57:08.509Z",
               "EditorCaption": ""
