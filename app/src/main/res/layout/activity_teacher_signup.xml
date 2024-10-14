@@ -74,7 +74,7 @@
         android:layout_below="@+id/password"
         android:hint="@string/confirm_password"
         android:padding="10dp"
-        android:layout_margin="5dp"
+
         android:background="@drawable/circular_stroke"/>
 
     <Button
@@ -84,6 +84,7 @@
         android:layout_below="@id/confirmpassword"
         android:layout_centerInParent="true"
         android:backgroundTint="@color/black"
+        android:layout_margin="20dp"
         android:textSize="15sp" />
 
 </RelativeLayout>
