@@ -1,3 +1,18 @@
 <resources>
     <string name="app_name">All-Study</string>
+    <string name="sign_up">Sign Up</string>
+    <string name="first_name">First Name</string>
+    <string name="last_name">Last Name</string>
+    <string name="teacher_id">Teacher ID</string>
+    <string name="password">Password</string>
+    <string name="confirm_password">Confirm Password</string>
+    <string name="student_id">Student ID</string>
+    <string name="forgot_password">Forgot Password</string>
+    <string name="email">Email</string>
+    <string name="teacher_log_in">Teacher Log In</string>
+    <string name="login">Login</string>
+    <string name="forgot_passwords">Forgot password?</string>
+    <string name="dont_have_an_account">Don\'t have an account?</string>
+    <string name="Sign_Up">Sign Up</string>
+    <string name="don_t_have_an_account_sign_up">Don\'t have an account? Sign Up</string>
 </resources>

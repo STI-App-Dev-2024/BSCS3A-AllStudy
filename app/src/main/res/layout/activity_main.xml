@@ -11,8 +11,8 @@
         android:id="@+id/splashimage"
         android:layout_width="500dp"
         android:layout_height="800dp"
-        android:src="@drawable/splashscreen2"
         android:scaleType="centerCrop"
+        android:src="@drawable/splashscreen2"
 
         />
 
