@@ -7,6 +7,7 @@
     android:layout_height="match_parent"
     tools:context=".TeacherOrStudentLogIn">
 
+
     <ImageView
         android:id="@+id/logonamin"
         android:layout_width="222dp"
@@ -46,15 +47,16 @@
         android:layout_height="wrap_content"
         android:layout_below="@id/student"
         android:layout_marginStart="65dp"
-        android:text="Teacher"
-        android:textSize="20dp" />
+        android:text="@string/teacher"
+        android:textSize="20sp" />
 
     <TextView
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:layout_below="@id/teacher"
         android:layout_marginStart="220dp"
-        android:text="Student"
-        android:textSize="20dp" />
+        android:text="@string/student"
+        android:textSize="20sp" />
+
 
 </RelativeLayout>

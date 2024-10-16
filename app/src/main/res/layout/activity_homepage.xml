@@ -8,13 +8,13 @@
     android:layout_height="match_parent"
     >
 
+
     <ImageView
         android:layout_width="350dp"
         android:layout_height="wrap_content"
         android:background="@drawable/rectangle_6"
         android:layout_centerHorizontal="true"
-        android:layout_marginTop="180dp"
-        />
+        android:layout_marginTop="180dp" />
 
     <ImageView
         android:layout_width="134dp"
@@ -27,12 +27,11 @@
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:text="Active Server"
-        android:fontFamily="@font/InstrumentSans"
         android:layout_marginTop="200dp"
         android:layout_marginLeft="45dp"
         android:textColor="@color/white"
-        android:textSize="25dp"
-        />
+        android:textSize="25dp" />
+
     <Button
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
@@ -40,76 +39,71 @@
         android:layout_marginLeft="50dp"
         android:text="Join Now"
         android:textColor="@color/black"
-        android:backgroundTint="@color/white"
-        />
+        android:backgroundTint="@color/white" />
+
     <TextView
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:text="Coding"
-        android:fontFamily="@font/InstrumentSans"
         android:layout_marginTop="260dp"
         android:layout_marginLeft="60dp"
         android:textColor="@color/white"
         android:textSize="25dp"
         android:shadowColor="@color/white"
-        android:textStyle="bold"/>
+        android:textStyle="bold" />
 
     <TextView
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:text="More active Servers"
-        android:fontFamily="@font/InstrumentSans"
         android:layout_marginTop="400dp"
         android:layout_marginLeft="40dp"
         android:textStyle="bold"
-        android:textSize="30dp"/>
-
+        android:textSize="30dp" />
 
     <ImageView
         android:layout_width="500dp"
         android:layout_height="140dp"
         android:background="@drawable/rectangle"
         android:layout_marginTop="830dp"
-        android:backgroundTint="#4c4746"
-        />
+        android:backgroundTint="#4c4746" />
+
     <ImageView
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:background="@drawable/bell"
         android:layout_marginTop="840dp"
-        android:layout_marginLeft="30dp"
-        />
+        android:layout_marginLeft="30dp" />
+
     <ImageView
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:background="@drawable/heart"
         android:layout_marginLeft="330dp"
-        android:layout_marginTop="835dp"
+        android:layout_marginTop="835dp" />
 
-        />
     <ImageView
         android:layout_width="50dp"
         android:layout_height="wrap_content"
         android:background="@drawable/generic_avatar"
         android:layout_marginLeft="340dp"
-        android:layout_marginTop="30dp"/>
+        android:layout_marginTop="30dp" />
+
     <ImageView
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:background="@drawable/allstudy"
         android:layout_marginLeft="100dp"
-        android:layout_marginTop="35dp"/>
+        android:layout_marginTop="35dp" />
+
     <TextView
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:text="List of Servers"
-        android:fontFamily="@font/InstrumentSans"
         android:textStyle="bold"
         android:textSize="30dp"
         android:layout_marginTop="120dp"
-        android:layout_marginLeft="35dp"
-        />
-
+        android:layout_marginLeft="35dp" />
 
 
 </RelativeLayout>

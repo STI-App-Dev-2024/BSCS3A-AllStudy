@@ -15,7 +15,7 @@ import androidx.core.view.WindowInsetsCompat;
 
 public class Signin_SignUp extends AppCompatActivity {
 
-    private ImageButton signup;
+    private Button signup;
     private Button signin;
 
 
@@ -25,11 +25,9 @@ public class Signin_SignUp extends AppCompatActivity {
         EdgeToEdge.enable(this);
         setContentView(R.layout.activity_signin_sign_up);
 
-
         signup = findViewById(R.id.signup);
         signin = findViewById(R.id.signin);
 
-        signup.setBackgroundColor(Color.parseColor("#313231"));
         // Set up insets for the main view
         ViewCompat.setOnApplyWindowInsetsListener(findViewById(R.id.main), (v, insets) -> {
             Insets systemBars = insets.getInsets(WindowInsetsCompat.Type.systemBars());
