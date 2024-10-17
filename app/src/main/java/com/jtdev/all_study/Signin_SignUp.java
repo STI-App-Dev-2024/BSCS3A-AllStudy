@@ -1,5 +1,6 @@
 package com.jtdev.all_study;
 
+import android.annotation.SuppressLint;
 import android.content.Intent;
 import android.graphics.Color;
 import android.os.Bundle;
@@ -15,10 +16,11 @@ import androidx.core.view.WindowInsetsCompat;
 
 public class Signin_SignUp extends AppCompatActivity {
 
-    private Button signup;
+    private ImageButton signup;
     private Button signin;
 
 
+    @SuppressLint("MissingInflatedId")
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);

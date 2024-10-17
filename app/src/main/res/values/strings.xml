@@ -19,4 +19,6 @@
     <string name="teacher">Teacher</string>
     <string name="student">Student</string>
     <string name="send">Send</string>
+    <string name="teacher_sign_up">Teacher Sign Up</string>
+    <string name="teacheridSign_up">Teacher ID</string>
 </resources>

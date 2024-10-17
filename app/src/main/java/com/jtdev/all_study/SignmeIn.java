@@ -2,6 +2,7 @@ package com.jtdev.all_study;
 
 import android.content.Intent;
 import android.os.Bundle;
+import android.widget.Button;
 import android.widget.ImageButton;
 import android.widget.Toast;
 
@@ -14,6 +15,7 @@ import androidx.core.view.WindowInsetsCompat;
 public class SignmeIn extends AppCompatActivity {
 
     private ImageButton navback;
+    private Button buttonsign;
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
@@ -23,12 +25,20 @@ public class SignmeIn extends AppCompatActivity {
 
 
         navback = findViewById(R.id.navback);
-
+        buttonsign = findViewById(R.id.buttonsign);
 
         ViewCompat.setOnApplyWindowInsetsListener(findViewById(R.id.main), (v, insets) -> {
             Insets systemBars = insets.getInsets(WindowInsetsCompat.Type.systemBars());
             v.setPadding(systemBars.left, systemBars.top, systemBars.right, systemBars.bottom);
             return insets;
+        });
+
+
+        buttonsign.setOnClickListener(v -> {
+
+            Intent intent = new Intent(SignmeIn.this, HomePageAllStudy.class);
+            startActivity(intent);
+
         });
 
 
@@ -38,5 +48,6 @@ public class SignmeIn extends AppCompatActivity {
             startActivity(intent);
 
         });
+
     }
 }

@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+
     android:layout_width="match_parent"
     android:layout_height="match_parent">
 
@@ -8,83 +9,107 @@
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:layout_alignParentTop="true"
-        android:src="@drawable/allstudyhalfbg"
-        android:layout_centerInParent="true"/>"
+        android:layout_centerHorizontal="true"
+        android:src="@drawable/allstudyhalfbg" />
+
+    <ImageView
+        android:layout_width="360dp"
+        android:layout_height="504dp"
+        android:layout_alignParentEnd="true"
+        android:layout_alignParentBottom="true"
+        android:layout_marginEnd="-1dp"
+        android:layout_marginBottom="-48dp"
+        android:src="@drawable/custom_rectangle" />
 
     <TextView
-        android:id="@+id/signup"
+        android:id="@+id/Tsignup"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:text="@string/sign_up"
-        android:layout_centerInParent="true"
         android:layout_below="@+id/allstudyhalf"
-        android:textSize="30sp"
-        android:textStyle="bold"
+        android:layout_alignParentEnd="true"
+        android:layout_marginTop="-21dp"
+        android:layout_marginEnd="52dp"
         android:padding="20dp"
-        />
+        android:text="@string/teacher_sign_up"
+        android:textSize="30sp"
+        android:textStyle="bold" />
 
     <EditText
-        android:id="@+id/firstname"
-        android:layout_width="350dp"
-        android:layout_height="40dp"
-        android:layout_centerInParent="true"
-        android:layout_below="@+id/signup"
+        android:id="@+id/Tfirstname"
+        android:layout_width="325dp"
+        android:layout_height="50dp"
+        android:layout_below="@+id/Tsignup"
+        android:layout_centerHorizontal="true"
         android:hint="@string/first_name"
         android:padding="10dp"
-        android:background="@drawable/circular_stroke"
-        />
+        android:layout_marginTop="10dp"
+        android:background="@drawable/round_edit_text" />
 
     <EditText
-        android:id="@+id/lastname"
-        android:layout_width="350dp"
-        android:layout_height="40dp"
-        android:layout_centerInParent="true"
-        android:layout_below="@+id/firstname"
+        android:id="@+id/Tlastname"
+        android:layout_width="325dp"
+        android:layout_height="50dp"
+        android:layout_below="@+id/Tfirstname"
+        android:layout_centerHorizontal="true"
         android:hint="@string/last_name"
         android:padding="10dp"
-        android:layout_margin="5dp"
-        android:background="@drawable/circular_stroke"/>
+        android:layout_marginTop="10dp"
+        android:background="@drawable/round_edit_text" />
 
     <EditText
         android:id="@+id/teacherid"
-        android:layout_width="350dp"
-        android:layout_height="40dp"
-        android:layout_centerInParent="true"
-        android:layout_below="@+id/lastname"
-        android:hint="@string/teacher_id"
+        android:layout_width="325dp"
+        android:layout_height="50dp"
+        android:layout_below="@+id/Tlastname"
+        android:layout_centerHorizontal="true"
+        android:hint="@string/teacheridSign_up"
         android:padding="10dp"
-        android:background="@drawable/circular_stroke"/>
+        android:layout_marginTop="10dp"
+        android:background="@drawable/round_edit_text" />
 
     <EditText
-        android:id="@+id/password"
-        android:layout_width="350dp"
-        android:layout_height="40dp"
-        android:layout_centerInParent="true"
+        android:id="@+id/Tpassword"
+        android:layout_width="325dp"
+        android:layout_height="50dp"
         android:layout_below="@+id/teacherid"
+        android:layout_centerHorizontal="true"
         android:hint="@string/password"
         android:padding="10dp"
-        android:layout_margin="5dp"
-        android:background="@drawable/circular_stroke"/>
+        android:layout_marginTop="10dp"
+        android:background="@drawable/round_edit_text"
+        android:inputType="textPassword" />
 
     <EditText
-        android:id="@+id/confirmpassword"
-        android:layout_width="350dp"
-        android:layout_height="40dp"
-        android:layout_centerInParent="true"
-        android:layout_below="@+id/password"
+        android:id="@+id/Tconfirmpassword"
+        android:layout_width="325dp"
+        android:layout_height="50dp"
+        android:layout_below="@+id/Tpassword"
+        android:layout_centerHorizontal="true"
         android:hint="@string/confirm_password"
         android:padding="10dp"
-
-        android:background="@drawable/circular_stroke"/>
+        android:layout_marginTop="10dp"
+        android:background="@drawable/round_edit_text"
+        android:inputType="textPassword" />
 
     <Button
-        android:layout_width="250dp"
-        android:layout_height="wrap_content"
+        android:id="@+id/TsignupButton"
+        android:layout_width="294dp"
+        android:layout_height="50dp"
+        android:layout_below="@+id/Tconfirmpassword"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="20dp"
         android:text="@string/sign_up"
-        android:layout_below="@id/confirmpassword"
-        android:layout_centerInParent="true"
-        android:backgroundTint="@color/black"
-        android:layout_margin="20dp"
-        android:textSize="15sp" />
+        android:backgroundTint="#313231"
+        android:textSize="20sp" />
+
+    <ImageButton
+        android:id="@+id/Tnavback"
+        android:layout_width="42dp"
+        android:layout_height="42dp"
+        android:layout_marginTop="20dp"
+        android:background="@drawable/navigate_next"
+        android:src="@drawable/navigate_next"
+        />
+
 
 </RelativeLayout>
