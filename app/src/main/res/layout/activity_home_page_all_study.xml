@@ -8,7 +8,6 @@
     android:layout_height="match_parent"
     >
 
-
     <ImageView
         android:layout_width="350dp"
         android:layout_height="wrap_content"
@@ -19,47 +18,47 @@
     <ImageView
         android:layout_width="134dp"
         android:layout_height="wrap_content"
-        android:layout_marginLeft="225dp"
+        android:layout_marginStart="225dp"
         android:layout_marginTop="218dp"
         android:background="@drawable/code" />
 
     <TextView
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:text="Active Server"
+        android:text="@string/active_server"
         android:layout_marginTop="200dp"
-        android:layout_marginLeft="45dp"
+        android:layout_marginStart="45dp"
         android:textColor="@color/white"
-        android:textSize="25dp" />
+        android:textSize="25sp" />
 
     <Button
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:layout_marginTop="320dp"
-        android:layout_marginLeft="50dp"
-        android:text="Join Now"
+        android:layout_marginStart="50dp"
+        android:text="@string/join_now"
         android:textColor="@color/black"
         android:backgroundTint="@color/white" />
 
     <TextView
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:text="Coding"
+        android:text="@string/coding"
         android:layout_marginTop="260dp"
-        android:layout_marginLeft="60dp"
+        android:layout_marginStart="60dp"
         android:textColor="@color/white"
-        android:textSize="25dp"
+        android:textSize="25sp"
         android:shadowColor="@color/white"
         android:textStyle="bold" />
 
     <TextView
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:text="More active Servers"
+        android:text="@string/more_active_servers"
         android:layout_marginTop="400dp"
-        android:layout_marginLeft="40dp"
+        android:layout_marginStart="40dp"
         android:textStyle="bold"
-        android:textSize="30dp" />
+        android:textSize="30sp" />
 
     <ImageView
         android:layout_width="500dp"
@@ -73,37 +72,37 @@
         android:layout_height="wrap_content"
         android:background="@drawable/bell"
         android:layout_marginTop="840dp"
-        android:layout_marginLeft="30dp" />
+        android:layout_marginStart="30dp" />
 
     <ImageView
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:background="@drawable/heart"
-        android:layout_marginLeft="330dp"
+        android:layout_marginStart="330dp"
         android:layout_marginTop="835dp" />
 
     <ImageView
         android:layout_width="50dp"
         android:layout_height="wrap_content"
         android:background="@drawable/generic_avatar"
-        android:layout_marginLeft="340dp"
+        android:layout_marginStart="340dp"
         android:layout_marginTop="30dp" />
 
     <ImageView
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:background="@drawable/allstudy"
-        android:layout_marginLeft="100dp"
+        android:layout_marginStart="100dp"
         android:layout_marginTop="35dp" />
 
     <TextView
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:text="List of Servers"
+        android:text="@string/list_of_servers"
         android:textStyle="bold"
-        android:textSize="30dp"
+        android:textSize="30sp"
         android:layout_marginTop="120dp"
-        android:layout_marginLeft="35dp" />
+        android:layout_marginStart="35dp" />
 
 
 </RelativeLayout>
