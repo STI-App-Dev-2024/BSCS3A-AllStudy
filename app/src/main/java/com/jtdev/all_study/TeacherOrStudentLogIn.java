@@ -17,7 +17,7 @@ public class TeacherOrStudentLogIn extends AppCompatActivity {
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
-        setContentView(R.layout.activity_teacher_or_student_log_in);
+        setContentView(R.layout.activity_04teacher_or_student_log_in);
 
         // Initialize buttons
         ImageButton student = findViewById(R.id.student);

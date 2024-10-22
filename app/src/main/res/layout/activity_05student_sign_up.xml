@@ -1,6 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
 <RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
-
     android:layout_width="match_parent"
     android:layout_height="match_parent">
 
@@ -12,44 +11,49 @@
         android:layout_centerHorizontal="true"
         android:src="@drawable/allstudyhalfbg" />
 
+    <ImageButton
+        android:id="@+id/Tnavback"
+        android:layout_width="42dp"
+        android:layout_height="42dp"
+        android:background="@drawable/navigate_next"
+        android:layout_marginStart="42dp"
+        android:layout_marginTop="40dp"
+        android:src="@drawable/navigate_next" />
+
+
     <ImageView
         android:layout_width="360dp"
-        android:layout_height="504dp"
-        android:layout_alignParentEnd="true"
-        android:layout_alignParentBottom="true"
-        android:layout_marginEnd="-1dp"
-        android:layout_marginBottom="-48dp"
+        android:layout_height="555dp"
+        android:layout_below="@id/allstudyhalf"
+        android:layout_centerHorizontal="true"
         android:src="@drawable/custom_rectangle" />
 
     <TextView
-        android:id="@+id/Tsignup"
+        android:id="@+id/signup"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:layout_below="@+id/allstudyhalf"
-        android:layout_alignParentEnd="true"
-        android:layout_marginTop="-21dp"
-        android:layout_marginEnd="52dp"
+        android:layout_centerHorizontal="true"
         android:padding="20dp"
-        android:text="@string/teacher_sign_up"
+        android:text="@string/sign_up"
         android:textSize="30sp"
         android:textStyle="bold" />
 
     <EditText
-        android:id="@+id/Tfirstname"
+        android:id="@+id/firstname"
         android:layout_width="325dp"
-        android:layout_height="50dp"
-        android:layout_below="@+id/Tsignup"
-        android:layout_centerHorizontal="true"
+        android:layout_height="41dp"
+        android:layout_below="@+id/signup"
+        android:background="@drawable/round_edit_text"
         android:hint="@string/first_name"
-        android:padding="10dp"
-        android:layout_marginTop="10dp"
-        android:background="@drawable/round_edit_text" />
+        android:layout_centerHorizontal="true"
+        android:padding="10dp" />
 
     <EditText
-        android:id="@+id/Tlastname"
+        android:id="@+id/lastname"
         android:layout_width="325dp"
-        android:layout_height="50dp"
-        android:layout_below="@+id/Tfirstname"
+        android:layout_height="41dp"
+        android:layout_below="@+id/firstname"
         android:layout_centerHorizontal="true"
         android:hint="@string/last_name"
         android:padding="10dp"
@@ -57,21 +61,21 @@
         android:background="@drawable/round_edit_text" />
 
     <EditText
-        android:id="@+id/teacherid"
+        android:id="@+id/studentid"
         android:layout_width="325dp"
-        android:layout_height="50dp"
-        android:layout_below="@+id/Tlastname"
+        android:layout_height="41dp"
+        android:layout_below="@+id/lastname"
         android:layout_centerHorizontal="true"
-        android:hint="@string/teacheridSign_up"
+        android:hint="@string/student_id"
         android:padding="10dp"
         android:layout_marginTop="10dp"
         android:background="@drawable/round_edit_text" />
 
     <EditText
-        android:id="@+id/Tpassword"
+        android:id="@+id/passWord"
         android:layout_width="325dp"
-        android:layout_height="50dp"
-        android:layout_below="@+id/teacherid"
+        android:layout_height="41dp"
+        android:layout_below="@+id/studentid"
         android:layout_centerHorizontal="true"
         android:hint="@string/password"
         android:padding="10dp"
@@ -80,10 +84,10 @@
         android:inputType="textPassword" />
 
     <EditText
-        android:id="@+id/Tconfirmpassword"
+        android:id="@+id/confirmpassword"
         android:layout_width="325dp"
-        android:layout_height="50dp"
-        android:layout_below="@+id/Tpassword"
+        android:layout_height="41dp"
+        android:layout_below="@+id/passWord"
         android:layout_centerHorizontal="true"
         android:hint="@string/confirm_password"
         android:padding="10dp"
@@ -92,24 +96,15 @@
         android:inputType="textPassword" />
 
     <Button
-        android:id="@+id/TsignupButton"
+        android:id="@+id/signupButton"
         android:layout_width="294dp"
-        android:layout_height="50dp"
-        android:layout_below="@+id/Tconfirmpassword"
+        android:layout_height="49dp"
+        android:layout_below="@+id/confirmpassword"
         android:layout_centerHorizontal="true"
-        android:layout_marginTop="20dp"
-        android:text="@string/sign_up"
         android:backgroundTint="#313231"
-        android:textSize="20sp" />
-
-    <ImageButton
-        android:id="@+id/Tnavback"
-        android:layout_width="42dp"
-        android:layout_height="42dp"
-        android:layout_marginTop="20dp"
-        android:background="@drawable/navigate_next"
-        android:src="@drawable/navigate_next"
-        />
+        android:text="@string/sign_up"
+        android:textSize="20sp"
+        android:layout_margin="20dp"/>
 
 
 </RelativeLayout>

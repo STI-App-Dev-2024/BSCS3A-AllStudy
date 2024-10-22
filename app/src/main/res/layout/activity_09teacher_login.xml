@@ -7,27 +7,28 @@
         android:id="@+id/halfbg"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:src="@drawable/allstudyhalfbg"/>
+        android:layout_centerHorizontal="true"
+        android:src="@drawable/teacherloginsplash"/>
 
     <TextView
         android:id="@+id/teacherlogin"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:text="@string/teacher_log_in"
-        android:layout_centerInParent="true"
+        android:text="@string/teacher_sign_in"
+        android:layout_centerHorizontal="true"
         android:layout_below="@+id/halfbg"
-        android:layout_margin="10dp"
-        android:textSize="20sp"
+        android:layout_margin="20dp"
+        android:textSize="28sp"
         android:textStyle="bold"
         />
 
     <EditText
         android:id="@+id/email"
-        android:layout_width="360dp"
-        android:layout_height="35dp"
+        android:layout_width="325dp"
+        android:layout_height="41dp"
         android:padding="10dp"
         android:hint="@string/email"
-        android:layout_centerInParent="true"
+        android:layout_centerHorizontal="true"
         android:layout_below="@+id/teacherlogin"
         android:layout_margin="10dp"
         android:background="@drawable/circular_stroke"
@@ -35,8 +36,8 @@
 
     <EditText
         android:id="@+id/password"
-        android:layout_width="360dp"
-        android:layout_height="35dp"
+        android:layout_width="325dp"
+        android:layout_height="41dp"
         android:padding="10dp"
         android:hint="@string/password"
         android:layout_centerInParent="true"
@@ -46,11 +47,11 @@
 
     <Button
         android:id="@+id/login"
-        android:layout_width="300dp"
-        android:layout_height="35dp"
+        android:layout_width="294dp"
+        android:layout_height="49dp"
         android:layout_centerInParent="true"
-        android:backgroundTint="@color/black"
-        android:text="@string/login"
+        android:backgroundTint="#313231"
+        android:text="@string/sign_in"
         android:layout_below="@+id/password"
         android:textSize="15sp"
         android:layout_margin="20dp"
@@ -61,7 +62,7 @@
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:hint="@string/forgot_passwords"
-        android:layout_centerInParent="true"
+        android:layout_centerHorizontal="true"
         android:layout_below="@id/login"
         android:textStyle="bold"
         android:textSize="15sp"
@@ -73,7 +74,7 @@
         android:layout_height="wrap_content"
         android:text="@string/don_t_have_an_account_sign_up"
         android:layout_centerInParent="true"
-        android:layout_margin="30dp"
+        android:layout_margin="40dp"
         android:layout_below="@id/forgotpassword" />
 
 

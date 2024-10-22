@@ -2,7 +2,6 @@ package com.jtdev.all_study;
 
 import android.annotation.SuppressLint;
 import android.content.Intent;
-import android.graphics.Color;
 import android.os.Bundle;
 import android.widget.Button;
 import android.widget.ImageButton;
@@ -25,7 +24,7 @@ public class Signin_SignUp extends AppCompatActivity {
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         EdgeToEdge.enable(this);
-        setContentView(R.layout.activity_signin_sign_up);
+        setContentView(R.layout.activity_03signin_sign_up);
 
         signup = findViewById(R.id.signup);
         signin = findViewById(R.id.signin);
