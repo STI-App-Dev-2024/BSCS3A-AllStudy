@@ -19,6 +19,13 @@ public class Signin_SignUp extends AppCompatActivity {
     private Button signin;
 
 
+    //For unit testing
+    public boolean isValidEmail(String email) {
+        String emailRegex = "^[a-zA-Z0-9._%+-]+@[a-zA-Z0-9.-]+\\.[a-zA-Z]{2,6}$";
+        return email.matches(emailRegex);
+    } //For unit testing
+
+
     @SuppressLint("MissingInflatedId")
     @Override
     protected void onCreate(Bundle savedInstanceState) {
