@@ -18,7 +18,7 @@
     <Button
         android:id="@+id/signin"
         android:layout_width="294dp"
-        android:layout_height="49dp"
+        android:layout_height="55dp"
         android:layout_below="@+id/splash"
         android:layout_centerHorizontal="true"
         android:backgroundTint="#313231"
@@ -47,10 +47,6 @@
         android:layout_centerHorizontal="true"
         android:layout_margin="10dp"
         android:layout_below="@id/signup"/>
-
-
-
-
 
 
     </RelativeLayout>

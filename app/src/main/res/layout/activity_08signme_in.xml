@@ -14,8 +14,8 @@
         android:layout_alignParentTop="true"
         android:src="@drawable/allstudyhalf" />
 
-    <ImageButton
-        android:id="@+id/Tnavback"
+    <Button
+        android:id="@+id/navback"
         android:layout_width="42dp"
         android:layout_height="42dp"
         android:background="@drawable/navigate_next"

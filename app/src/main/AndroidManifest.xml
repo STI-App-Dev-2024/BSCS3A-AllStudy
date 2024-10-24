@@ -34,7 +34,7 @@
             android:name=".Forgot_Password"
             android:exported="false" />
         <activity
-            android:name=".TeacherOrStudentLogIn"
+            android:name=".TeacherOrStudentSignIn"
             android:exported="false" />
         <activity
             android:name=".SignmeIn"

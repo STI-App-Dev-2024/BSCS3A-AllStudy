@@ -6,4 +6,7 @@
     </style>
 
     <style name="Theme.AllStudy" parent="Base.Theme.AllStudy" />
+    <style name="MyButtonStyle">
+        <item name="android:backgroundTint">#D9D9D9</item>
+    </style>
 </resources>

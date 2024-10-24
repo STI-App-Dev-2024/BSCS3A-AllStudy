@@ -11,18 +11,18 @@ import androidx.core.graphics.Insets;
 import androidx.core.view.ViewCompat;
 import androidx.core.view.WindowInsetsCompat;
 
-public class TeacherOrStudentLogIn extends AppCompatActivity {
+public class TeacherOrStudentSignIn extends AppCompatActivity {
 
     @SuppressLint("MissingInflatedId")
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
-        setContentView(R.layout.activity_04teacher_or_student_log_in);
+        setContentView(R.layout.activity_04teacher_or_student_sign_in);
 
         // Initialize buttons
         ImageButton student = findViewById(R.id.student);
         ImageButton teacher = findViewById(R.id.teacher);
-        ImageButton back = findViewById(R.id.back);
+        ImageButton navback = findViewById(R.id.navback);
 
         // Handle system window insets for proper layout
         ViewCompat.setOnApplyWindowInsetsListener(findViewById(R.id.main), (v, insets) -> {
@@ -33,21 +33,21 @@ public class TeacherOrStudentLogIn extends AppCompatActivity {
 
         // Teacher button click listener
         teacher.setOnClickListener(v -> {
-            Toast.makeText(TeacherOrStudentLogIn.this, "Welcome Teacher!", Toast.LENGTH_SHORT).show();
-            Intent intent = new Intent(TeacherOrStudentLogIn.this, Teacher_SignUp.class);
+            Toast.makeText(TeacherOrStudentSignIn.this, "Welcome Teacher!", Toast.LENGTH_SHORT).show();
+            Intent intent = new Intent(TeacherOrStudentSignIn.this, Teacher_SignUp.class);
             startActivity(intent);
         });
 
         // Student button click listener
         student.setOnClickListener(v -> {
-            Toast.makeText(TeacherOrStudentLogIn.this, "Welcome Student!", Toast.LENGTH_SHORT).show();
-            Intent intent = new Intent(TeacherOrStudentLogIn.this, Student_SignUp.class);
+            Toast.makeText(TeacherOrStudentSignIn.this, "Welcome Student!", Toast.LENGTH_SHORT).show();
+            Intent intent = new Intent(TeacherOrStudentSignIn.this, Student_SignUp.class);
             startActivity(intent);
         });
 
         // Back button click listener
-        back.setOnClickListener(v -> {
-            Intent intent = new Intent(TeacherOrStudentLogIn.this, Signin_SignUp.class);
+        navback.setOnClickListener(v -> {
+            Intent intent = new Intent(TeacherOrStudentSignIn.this, Signin_SignUp.class);
             startActivity(intent);
         });
     }
