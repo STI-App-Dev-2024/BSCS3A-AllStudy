@@ -39,11 +39,10 @@ public class Signin_SignUp extends AppCompatActivity {
             return insets;
         });
 
-
         signup.setOnClickListener(v -> {
             // Logic for Sign Up button
             Toast.makeText(Signin_SignUp.this, "Sign Up!", Toast.LENGTH_SHORT).show();
-            Intent intent = new Intent(Signin_SignUp.this, TeacherOrStudentSignIn.class);
+            Intent intent = new Intent(Signin_SignUp.this, TeacherOrStudentSignUp.class);
             startActivity(intent);
         });
 

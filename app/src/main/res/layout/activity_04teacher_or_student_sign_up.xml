@@ -5,7 +5,7 @@
     android:id="@+id/main"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
-    tools:context=".TeacherOrStudentSignIn">
+    tools:context=".TeacherOrStudentSignUp">
 
     <ImageView
         android:id="@+id/logonamin"
@@ -34,7 +34,6 @@
         android:textStyle="bold"
         android:layout_centerHorizontal="true"/>
 
-
     <LinearLayout
         android:id="@+id/teacher_or_student"
         android:layout_width="wrap_content"
@@ -42,20 +41,20 @@
         android:orientation="horizontal"
         android:layout_centerInParent="true"
         android:layout_below="@id/areayoua"
-        android:layout_marginTop="50dp">
+        android:layout_marginTop="30dp">
 
         <ImageButton
             android:id="@+id/student"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
-            android:src="@drawable/student_icon"
+            android:src="@drawable/studenticon"
             android:background="@drawable/circle_for_profile"/>
 
         <ImageButton
             android:id="@+id/teacher"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
-            android:src="@drawable/teacher_icon"
+            android:src="@drawable/teachericon"
             android:background="@drawable/circle_for_profile"
             android:layout_marginStart="100dp"/>
 
@@ -66,7 +65,7 @@
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:layout_below="@+id/teacher_or_student"
-        android:layout_margin="25dp"
+        android:layout_margin="10dp"
         android:layout_centerInParent="true">
 
         <TextView

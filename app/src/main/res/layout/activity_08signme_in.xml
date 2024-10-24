@@ -37,13 +37,13 @@
         android:layout_height="wrap_content"
         android:layout_marginTop="386dp"
         android:layout_centerHorizontal="true"
-        android:text="@string/student_sign_in"
+        android:text="@string/sign_in"
         android:textSize="30sp"/>
 
     <EditText
         android:id="@+id/email"
         android:layout_width="325dp"
-        android:layout_height="41dp"
+        android:layout_height="wrap_content"
         android:layout_below="@+id/sign_in"
         android:layout_centerHorizontal="true"
         android:background="@drawable/round_edit_text"
@@ -51,22 +51,22 @@
         android:padding="10dp"
         android:textColor="@android:color/black"
         android:layout_margin="15dp"
-        android:textSize="20sp" />
+        android:textSize="18sp" />
 
     <EditText
         android:id="@+id/password"
         android:layout_width="325dp"
-        android:layout_height="41dp"
+        android:layout_height="wrap_content"
         android:background="@drawable/round_edit_text"
         android:hint="@string/password"
         android:padding="10dp"
-        android:textSize="20sp"
+        android:textSize="18sp"
         android:layout_below="@id/email"
         android:layout_centerHorizontal="true"/>
 
     <Button
         android:id="@+id/buttonsign"
-        android:layout_width="294dp"
+        android:layout_width="280dp"
         android:layout_height="49dp"
         android:layout_below="@id/password"
         android:backgroundTint="#313231"
@@ -74,7 +74,7 @@
         android:textSize="20sp"
         android:layout_centerHorizontal="true"
         android:textStyle="normal"
-        android:layout_margin="25dp"/>
+        android:layout_marginTop="20dp"/>
 
     <TextView
         android:id="@+id/forgot_password"
@@ -86,6 +86,7 @@
         android:text="@string/forgot_passwords"
         android:textSize="14sp"
         android:textStyle="bold"
+        android:layout_marginTop="30dp"
         android:layout_centerHorizontal="true"/>
 
     <LinearLayout
@@ -94,7 +95,7 @@
         android:layout_height="wrap_content"
         android:layout_below="@id/forgot_password"
         android:layout_centerHorizontal="true"
-        android:layout_marginTop="20dp"
+        android:layout_marginTop="35dp"
         android:orientation="horizontal">
 
         <TextView

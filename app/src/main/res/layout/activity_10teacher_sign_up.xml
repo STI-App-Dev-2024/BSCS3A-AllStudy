@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
-
     android:layout_width="match_parent"
-    android:layout_height="match_parent">
+    android:layout_height="match_parent"
+    android:id="@+id/main">
 
     <ImageView
         android:id="@+id/allstudyhalf"
@@ -12,12 +12,20 @@
         android:layout_centerHorizontal="true"
         android:src="@drawable/allstudyhalfbg" />
 
+    <ImageButton
+        android:id="@+id/Tnavback"
+        android:layout_width="42dp"
+        android:layout_height="42dp"
+        android:background="@drawable/navigate_next"
+        android:layout_marginStart="42dp"
+        android:layout_marginTop="40dp"
+        android:src="@drawable/navigate_next" />
+
     <ImageView
         android:layout_width="360dp"
-        android:layout_height="592dp"
+        android:layout_height="555dp"
+        android:layout_below="@id/allstudyhalf"
         android:layout_centerHorizontal="true"
-        android:layout_alignParentBottom="true"
-        android:layout_marginBottom="-15dp"
         android:src="@drawable/custom_rectangle" />
 
     <TextView
@@ -28,7 +36,8 @@
         android:layout_centerHorizontal="true"
         android:padding="20dp"
         android:text="@string/sign_up"
-        android:textSize="30sp" />
+        android:textSize="30sp"
+        android:textStyle="bold"/>
 
     <EditText
         android:id="@+id/Tfirstname"
@@ -102,21 +111,6 @@
         android:text="@string/sign_up"
         android:backgroundTint="#313231"
         android:textSize="20sp" />
-
-    <FrameLayout
-        android:layout_width="match_parent"
-        android:layout_height="match_parent">
-
-    <ImageButton
-        android:id="@+id/Tnavback"
-        android:layout_width="42dp"
-        android:layout_height="42dp"
-        android:background="@drawable/navigate_next"
-        android:layout_marginStart="42dp"
-        android:layout_marginTop="40dp"
-        android:src="@drawable/navigate_next" />
-
-    </FrameLayout>
 
 
 </RelativeLayout>
