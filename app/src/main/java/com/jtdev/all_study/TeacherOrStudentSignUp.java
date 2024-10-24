@@ -33,11 +33,13 @@ public class TeacherOrStudentSignUp extends AppCompatActivity {
 
         teacher.setOnClickListener(v -> {
             Intent intent = new Intent(TeacherOrStudentSignUp.this, Teacher_SignUp.class);
+            Toast.makeText(TeacherOrStudentSignUp.this, "Welcome, Teacher!", Toast.LENGTH_SHORT).show();
             startActivity(intent);
         });
 
         student.setOnClickListener(v -> {
             Intent intent = new Intent(TeacherOrStudentSignUp.this, Student_SignUp.class);
+            Toast.makeText(TeacherOrStudentSignUp.this, "Welcome, student!", Toast.LENGTH_SHORT).show();
             startActivity(intent);
         });
 

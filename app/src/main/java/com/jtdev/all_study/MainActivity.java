@@ -7,13 +7,14 @@ import android.os.Handler;
 import androidx.appcompat.app.AppCompatActivity;
 
 public class MainActivity extends AppCompatActivity {
-    private static int SPLASH_TIME_OUT = 3000; // 3 seconds
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_01main);
 
+        // 3 seconds
+        int SPLASH_TIME_OUT = 3000;
         new Handler().postDelayed(new Runnable() {
             @Override
             public void run() {

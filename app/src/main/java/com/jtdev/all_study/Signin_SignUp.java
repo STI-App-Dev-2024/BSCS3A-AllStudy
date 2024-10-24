@@ -41,7 +41,6 @@ public class Signin_SignUp extends AppCompatActivity {
 
         signup.setOnClickListener(v -> {
             // Logic for Sign Up button
-            Toast.makeText(Signin_SignUp.this, "Sign Up!", Toast.LENGTH_SHORT).show();
             Intent intent = new Intent(Signin_SignUp.this, TeacherOrStudentSignUp.class);
             startActivity(intent);
         });
@@ -49,7 +48,6 @@ public class Signin_SignUp extends AppCompatActivity {
 
         signin.setOnClickListener(v -> {
             // Logic for Sign In button
-            Toast.makeText(Signin_SignUp.this, "Sign In!", Toast.LENGTH_SHORT).show();
             Intent intent = new Intent(Signin_SignUp.this, SignmeIn.class);
             startActivity(intent);
         });

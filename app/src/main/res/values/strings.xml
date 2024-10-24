@@ -35,4 +35,5 @@
     <string name="student_sign_in">Student Sign In</string>
     <string name="teacher_sign_in">Teacher Sign In</string>
     <string name="are_you_a">Are you a</string>
+    <string name="back_button">Back Button</string>
 </resources>
